@@ -1,0 +1,5 @@
+# source scan (137 MB, over GitHub's 100 MB file limit)
+*.pdf
+# raw OCR intermediates (regenerable from the PDF)
+ocr/
+.DS_Store

@@ -1,0 +1,452 @@
+{
+  "source_pdf": "Puncak Kebiadaban Bangsa_ Perkosaan Etnik Tionghoa 13-14 Mei 1998 - Tim Pemburu Fakta.pdf",
+  "ocr": {
+    "server": "http://100.73.167.16:8020",
+    "mode": "auto_verified",
+    "dpi": 200,
+    "timeout_s": 170,
+    "retries": 3
+  },
+  "title": "Puncak Kebiadaban Bangsa: Perkosaan Etnik Tionghoa 13-14 Mei 1998",
+  "author": "Tim Pemburu Fakta",
+  "lang": "id",
+  "epub_name": "Puncak Kebiadaban Bangsa - Tim Pemburu Fakta.epub",
+  "cover_page": 0,
+  "skip_pages": [
+    0,
+    4
+  ],
+  "front_matter": {
+    "heading": "Halaman Judul",
+    "lines": [
+      "**PUNCAK KEBIADABAN BANGSA**",
+      "Perkosaan Etnik Tionghoa 13 - 14 Mei 1998",
+      "",
+      "Tim Pemburu Fakta",
+      ""
+    ],
+    "pages": [
+      2
+    ]
+  },
+  "chapters": [
+    [
+      3,
+      "Menjebol Dinding Kebisuan",
+      null
+    ],
+    [
+      5,
+      "Jauh Hari Sebelumnya, Tanda Itu Sudah Tampak",
+      null
+    ],
+    [
+      8,
+      "Ke Mana Hilangnya Mayat-Mayat Perempuan Itu?",
+      "Kronologi dan Modus Operandi Pemerkosaan"
+    ],
+    [
+      15,
+      "Pemerkosaan di Kota-Kota Lain",
+      "Bukti Kuat Kejahatan yang Terorganisir"
+    ],
+    [
+      22,
+      "Jerit itu Tanpa Suara",
+      "Korban-Korban Mengenaskan"
+    ],
+    [
+      30,
+      "Noda Hitam dalam Lembar Kehidupan",
+      "Dampak Luas Pemerkosaan"
+    ],
+    [
+      35,
+      "Buktikan Kalau Kejadian ini Bohong",
+      "Ita F. Nadia, Koordinator Tim Relawan untuk Kemanusiaan Divisi Kekerasan terhadap Perempuan"
+    ],
+    [
+      38,
+      "Pemerkosaan Massal Bukan Tabiat Orang Indonesia",
+      "Dr. Rosita Noer, Ketua Umum Badan Komunikasi Penghayatan Kesatuan Bangsa (Bakom PKB) Pusat"
+    ],
+    [
+      41,
+      "Apa Kata Mereka?",
+      null
+    ],
+    [
+      50,
+      "Di Mana Kau, Ibu?",
+      "Menyoal Lambannya Upaya Pemerintah"
+    ],
+    [
+      55,
+      "Dari Berbagai Penjuru Simpati Mengalir",
+      null
+    ],
+    [
+      59,
+      "Kekerasan dan Teror Masih Berlangsung",
+      "Ikut-Ikutan atau Karena Para Pelaku Masih Berkeliaran?"
+    ],
+    [
+      62,
+      "Bongkar dan Adili Segera!",
+      null
+    ],
+    [
+      63,
+      "Pertanggungjawaban Hati Nurani",
+      null
+    ]
+  ],
+  "footer_patterns": [
+    "^\\s*\\d{1,3}\\s*/\\s*(PUNCAK|KEBIADAR)",
+    "KEBIADABAN BANGSA.*TIM\\s*PEMBURU"
+  ],
+  "typo_fixes": [
+    [
+      "buku mungil inidari",
+      "buku mungil ini dari"
+    ],
+    [
+      "me.galami",
+      "mengalami"
+    ],
+    [
+      "MEMECAH BE LAH",
+      "MEMECAH BELAH"
+    ],
+    [
+      "Índonesia",
+      "Indonesia"
+    ],
+    [
+      "dilákukan",
+      "dilakukan"
+    ],
+    [
+      "sudáh",
+      "sudah"
+    ],
+    [
+      "laporán",
+      "laporan"
+    ],
+    [
+      "berpíkir",
+      "berpikir"
+    ],
+    [
+      "pertàma",
+      "pertama"
+    ],
+    [
+      "mènekankan",
+      "menekankan"
+    ],
+    [
+      "inì",
+      "ini"
+    ],
+    [
+      "ÍNILAH",
+      "INILAH"
+    ],
+    [
+      "Ísu",
+      "Isu"
+    ],
+    [
+      "BÉRUPA",
+      "BERUPA"
+    ],
+    [
+      "Indonésia",
+      "Indonesia"
+    ],
+    [
+      "angkqt",
+      "angkot"
+    ],
+    [
+      "dēngan",
+      "dengan"
+    ],
+    [
+      "dań",
+      "dan"
+    ],
+    [
+      "keturuņan",
+      "keturunan"
+    ],
+    [
+      "reaksiņya",
+      "reaksinya"
+    ],
+    [
+      "Šelain",
+      "Selain"
+    ],
+    [
+      "kemasyarakatan、",
+      "kemasyarakatan,"
+    ],
+    [
+      "bermasyarakat、",
+      "bermasyarakat,"
+    ],
+    [
+      "Sampai mimpt pun",
+      "Sampai mimpi pun"
+    ],
+    [
+      "membogkar pelaku",
+      "membongkar pelaku"
+    ],
+    [
+      "handai tolannya",
+      "handai taulannya"
+    ],
+    [
+      "yang fahu rencana",
+      "yang tahu rencana"
+    ],
+    [
+      "selu ruh rakyat",
+      "seluruh rakyat"
+    ],
+    [
+      "bukan solusi pemecahan masalai asasi",
+      "bukan solusi pemecahan masalah asasi"
+    ],
+    [
+      "kepada mahlukNya",
+      "kepada makhluk-Nya"
+    ],
+    [
+      "rasa hormatdan penghargaan",
+      "rasa hormat dan penghargaan"
+    ],
+    [
+      "dan olehbangsa asing",
+      "dan oleh bangsa asing"
+    ],
+    [
+      "senantiasa menjadijiwa",
+      "senantiasa menjadi jiwa"
+    ],
+    [
+      "tabungan merekalewat mesin",
+      "tabungan mereka lewat mesin"
+    ],
+    [
+      "para pemerkosaitu membakar",
+      "para pemerkosa itu membakar"
+    ],
+    [
+      "gurupertamabagi anak-anaknya",
+      "guru pertama bagi anak-anaknya"
+    ],
+    [
+      "paling inengerikan",
+      "paling mengerikan"
+    ],
+    [
+      "me ngenaskan itu",
+      "mengenaskan itu"
+    ],
+    [
+      "Mus yawarah Antar",
+      "Musyawarah Antar"
+    ],
+    [
+      "per tengahan Mei",
+      "pertengahan Mei"
+    ],
+    [
+      "pertengan Mei",
+      "pertengahan Mei"
+    ],
+    [
+      "dikibaskibaskannya",
+      "dikibas-kibaskannya"
+    ]
+  ],
+  "keep_joins": [
+    [
+      "dite",
+      "mukan"
+    ],
+    [
+      "berka",
+      "itan"
+    ],
+    [
+      "se",
+      "lamat"
+    ],
+    [
+      "diper",
+      "caya"
+    ],
+    [
+      "me",
+      "nyerbu"
+    ],
+    [
+      "te",
+      "lah"
+    ],
+    [
+      "pe",
+      "merkosaan"
+    ],
+    [
+      "se",
+      "dang"
+    ],
+    [
+      "Pene",
+      "rangan"
+    ],
+    [
+      "PERISTI",
+      "wa"
+    ],
+    [
+      "penanggung",
+      "jawab"
+    ],
+    [
+      "terorga",
+      "nisir"
+    ],
+    [
+      "operan",
+      "di"
+    ],
+    [
+      "memer",
+      "kosa"
+    ],
+    [
+      "su",
+      "dah"
+    ],
+    [
+      "ber",
+      "tambah"
+    ],
+    [
+      "Se",
+      "dangkan"
+    ],
+    [
+      "mene",
+      "mukan"
+    ],
+    [
+      "meno",
+      "long"
+    ],
+    [
+      "se",
+      "buah"
+    ],
+    [
+      "ga",
+      "disnya"
+    ],
+    [
+      "peris",
+      "tiwa"
+    ],
+    [
+      "keru",
+      "suhan"
+    ],
+    [
+      "anta",
+      "ra"
+    ],
+    [
+      "Ge",
+      "langgang"
+    ]
+  ],
+  "verify": {
+    "must_contain": [
+      "Sedangkan temannya",
+      "masih bertambah terus",
+      "menemukan dampak",
+      "sebuah rumah sakit",
+      "Gelanggang Olah Raga",
+      "penanggungjawab",
+      "terorganisir",
+      "operandi",
+      "memerkosa",
+      "pemerkosaan",
+      "Proklamasi",
+      "lelaki",
+      "dibantai",
+      "tiba-tiba",
+      "orang-orang",
+      "laki-laki",
+      "masing-masing",
+      "mengalami kemerosotan",
+      "Kajian Indonesia",
+      "MEMECAH BELAH"
+    ],
+    "must_not_contain": [
+      "Kemernyiksaan",
+      "andekaan",
+      "petara pem",
+      "mendekapdi",
+      "pemucaman",
+      "diseIni",
+      "menimbuldan",
+      "tibatiba",
+      "orangorang",
+      "lakilaki",
+      "masingmasing",
+      "me.galami",
+      "Índonesia",
+      "BE LAH",
+      "dilákukan",
+      "sudáh",
+      "laporán",
+      "berpíkir",
+      "pertàma",
+      "mènekankan",
+      "ÍNILAH",
+      "Ísu",
+      "BÉRUPA",
+      "Indonésia",
+      "angkqt",
+      "dēngan",
+      "keturuņan",
+      "reaksiņya",
+      "Šelain",
+      "、",
+      "mimpt",
+      "membogkar",
+      "tolannya",
+      "fahu rencana",
+      "selu ruh",
+      "masalai",
+      "mahlukNya",
+      "hormatdan",
+      "olehbangsa",
+      "menjadijiwa",
+      "merekalewat",
+      "pemerkosaitu",
+      "gurupertamabagi",
+      "inengerikan",
+      "per tengahan",
+      "pertengan Mei"
+    ]
+  }
+}
