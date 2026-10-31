@@ -273,6 +273,18 @@
     [
       "dikibaskibaskannya",
       "dikibas-kibaskannya"
+    ],
+    [
+      "\ndarkan diri.",
+      "\nsadarkan diri."
+    ],
+    [
+      "\nrempuan.\n",
+      "\nperempuan.\n"
+    ],
+    [
+      "pemu-\n\ncaman,",
+      "pemucaman,"
     ]
   ],
   "keep_joins": [
@@ -398,14 +410,15 @@
       "masing-masing",
       "mengalami kemerosotan",
       "Kajian Indonesia",
-      "MEMECAH BELAH"
+      "MEMECAH BELAH",
+      "sadarkan diri",
+      "pemucaman"
     ],
     "must_not_contain": [
       "Kemernyiksaan",
       "andekaan",
       "petara pem",
       "mendekapdi",
-      "pemucaman",
       "diseIni",
       "menimbuldan",
       "tibatiba",
@@ -446,7 +459,9 @@
       "gurupertamabagi",
       "inengerikan",
       "per tengahan",
-      "pertengan Mei"
+      "pertengan Mei",
+      "\nrempuan.",
+      "pemu-\n\ncaman"
     ]
   }
 }

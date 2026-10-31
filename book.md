@@ -102,9 +102,7 @@ Sebenarnya, rencana pemerkosaan yang terorganisir dan sistematis sudah dapat dic
 
 ![](epub_assets/p07_0.jpg)
 
-Masih merasa belum cukup, para perencana kerusuhan bergerak ke pemu-
-
-caman, tidak menganggapnya terlalu serius.
+Masih merasa belum cukup, para perencana kerusuhan bergerak ke pemucaman, tidak menganggapnya terlalu serius.
 
 "Suatu kali saya naik taksi. Ketika saya hendak membayar, sopir taksinya menolak. Katanya, enggak usah bayar. Kamu Cina, sebentar lagi akan habis dibantai dan diperkosa," tutur salah seorang korban.
 
@@ -203,7 +201,7 @@ Yang jadi incaran adalah rumah toko (ruko) di sepanjang jalan raya, yang menghub
 
 Sumber: Dokumentasi Tim Relawan untuk Kemanusiaan, kesaksian para korban, keluarga korban, dan saksi mata.
 
-rempuan.
+perempuan.
 
 Fakta-fakta di lokasi kejadian memperkuat kesimpulan, kerusuhan dan pemerkosaan yang terjadi di Jakarta dan sekitarnya pada 13-14 Mei, dilakukan oleh sekelompok orang secara terorganisir dan sistematis.
 
@@ -402,7 +400,7 @@ Dan, begitu mereka keluar dari rumah, menurut kesaksian orang yang melihatnya, k
 
 kegiatan sehari-hari dengan tenang.
 
-darkan diri.
+sadarkan diri.
 
 Ada juga informasi yang sampai kepada tim relawan, bahwa di kawasan Jalan Slamet Riyadi, ada dua wanita Tionghoa diperkosa dalam sebuah gang. "Waktu kami datang pertama kali kepada yang memberi informasi, mereka tidak terbuka," ujar sang relawan.
 
