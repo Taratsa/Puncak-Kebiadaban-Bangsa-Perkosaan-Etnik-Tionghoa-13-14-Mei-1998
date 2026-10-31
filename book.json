@@ -313,6 +313,10 @@
     [
       "awal Mei-masih berlangsung",
       "awal Mei masih berlangsung"
+    ],
+    [
+      "betapa berilarahnya rezim",
+      "betapa berdarahnya rezim"
     ]
   ],
   "keep_joins": [
@@ -440,7 +444,8 @@
       "Kajian Indonesia",
       "MEMECAH BELAH",
       "sadarkan diri",
-      "pemukiman-pemukiman"
+      "pemukiman-pemukiman",
+      "berdarahnya rezim"
     ],
     "must_not_contain": [
       "Kemernyiksaan",
@@ -496,7 +501,8 @@
       "yang-adil",
       "TimRelawan",
       "ak ir-akhir",
-      "Mei-masih"
+      "Mei-masih",
+      "berilarahnya"
     ]
   },
   "source_url": "https://langka.logosid.app/book/476"

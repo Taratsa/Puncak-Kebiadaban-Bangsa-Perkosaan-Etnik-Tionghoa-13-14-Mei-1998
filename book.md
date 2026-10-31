@@ -887,7 +887,7 @@ Romo Sandyawan Sumardi, Sekretaris I Tim Relawan untuk Kemanusiaan Ini merupakan
 
 ![](epub_assets/p42_0.jpg)
 
-Pada waktu itu, ada 970 mayat di Rumah Sakit Cipto Mangunkusumo. Kami masuk ke sana, langsung pusing. Bukan karena bau, tapi kenangan betapa berilarahnya rezim ini. Itulah yang membuat kami pusing betul.
+Pada waktu itu, ada 970 mayat di Rumah Sakit Cipto Mangunkusumo. Kami masuk ke sana, langsung pusing. Bukan karena bau, tapi kenangan betapa berdarahnya rezim ini. Itulah yang membuat kami pusing betul.
 
 ![](epub_assets/p43_0.jpg)
 
