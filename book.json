@@ -284,7 +284,35 @@
     ],
     [
       "pemu-\n\ncaman,",
-      "pemucaman,"
+      "pemukiman-pemukiman,"
+    ],
+    [
+      "Amerika Sertkat",
+      "Amerika Serikat"
+    ],
+    [
+      "Tapisay tolak",
+      "Tapi saya tolak"
+    ],
+    [
+      "rasa kemanusiaan yang-adil",
+      "rasa kemanusiaan yang adil"
+    ],
+    [
+      "Ya. Yang-melakukan",
+      "Ya. Yang melakukan"
+    ],
+    [
+      "TimRelawan",
+      "Tim Relawan"
+    ],
+    [
+      "mereka ak ir-akhir ini",
+      "mereka akhir-akhir ini"
+    ],
+    [
+      "awal Mei-masih berlangsung",
+      "awal Mei masih berlangsung"
     ]
   ],
   "keep_joins": [
@@ -412,7 +440,7 @@
       "Kajian Indonesia",
       "MEMECAH BELAH",
       "sadarkan diri",
-      "pemucaman"
+      "pemukiman-pemukiman"
     ],
     "must_not_contain": [
       "Kemernyiksaan",
@@ -461,7 +489,15 @@
       "per tengahan",
       "pertengan Mei",
       "\nrempuan.",
-      "pemu-\n\ncaman"
+      "pemu-\n\ncaman",
+      "pemucaman",
+      "Sertkat",
+      "Tapisay",
+      "yang-adil",
+      "TimRelawan",
+      "ak ir-akhir",
+      "Mei-masih"
     ]
-  }
+  },
+  "source_url": "https://langka.logosid.app/book/476"
 }

@@ -102,7 +102,7 @@ Sebenarnya, rencana pemerkosaan yang terorganisir dan sistematis sudah dapat dic
 
 ![](epub_assets/p07_0.jpg)
 
-Masih merasa belum cukup, para perencana kerusuhan bergerak ke pemucaman, tidak menganggapnya terlalu serius.
+Masih merasa belum cukup, para perencana kerusuhan bergerak ke pemukiman-pemukiman, tidak menganggapnya terlalu serius.
 
 "Suatu kali saya naik taksi. Ketika saya hendak membayar, sopir taksinya menolak. Katanya, enggak usah bayar. Kamu Cina, sebentar lagi akan habis dibantai dan diperkosa," tutur salah seorang korban.
 
@@ -137,7 +137,7 @@ Mahasiswa berpidato dan meneriakkan yel-yel reformasi. Di luar, massa punya cara
 
 dan Jalan Gajah Mada yang sejak pukul 09.00 pagi diblokir, belakangan ikut luluh-lantak. Sepanjang hari, penjarahan, perusakan, dan pembakaran berlangsung.
 
-Dari laporan TimRelawan untuk Kemanusiaan setelah kerusuhan, terungkap fakta, di antara massa itu menyelinaplah sejumlah provokator. Merekalah yang perta- 'ma-tamaberusaha memancing perhatian massa dengan cara membakar ban mobil, tum-
+Dari laporan Tim Relawan untuk Kemanusiaan setelah kerusuhan, terungkap fakta, di antara massa itu menyelinaplah sejumlah provokator. Merekalah yang perta- 'ma-tamaberusaha memancing perhatian massa dengan cara membakar ban mobil, tum-
 
 "Sekitar pukul 11.30, saya melihat beberapa orang di antara massa mencegat mobil dan memaksa penumpang turun. Kemudian mereka menarik 2 orang gadis keluar dari mobil. Mereka mulai melucuti pakaian kedua perempuan itu, dan memperkosanya beramairamai. Kedua perempuan itu mencoba melawan, namun sia-sia, " ujar seorang saksi mata di kawasan Muara Angke,
 
@@ -314,7 +314,7 @@ Pada pagi 24 Juni, Yudi mengembalikan Lisa ke rumah. Lisa dirawat di rumah sakit
 
 Martha mengatakan, penderitaan Lisa bukanlah satu-satunya kasus pemerkosaan di kota itu. "Banyak wanita Tionghoa telah diperkosa atau diserang di sekitar lingkungan ini sejak Mei. Dan sampai sekarang pemerkosaan itu tetap masih berlangsung," tutur Martha. Bahkan sehari sebelumnya, seorang ibu (56 tahun) etnik Tionghoa juga disetubuhi.
 
-Teror seksual terhadap wanita keturunan Tionghoa di kota-kota besar di Indonesia yang dimulai awal Mei-masih berlangsung terus.
+Teror seksual terhadap wanita keturunan Tionghoa di kota-kota besar di Indonesia yang dimulai awal Mei masih berlangsung terus.
 
 Seorang gadis etnik Tionghoa (17 tahun) diculik dalam sebuah taksi. ![](epub_assets/p17_0.jpg)
 
@@ -773,7 +773,7 @@ Sejauh ini belum. Tapi, yang penting bukan menangkap para pelakunya. Peristiwa p
 
 Adakah kesamaan para pelaku kerusuhan dengan pemerkosaan massal?
 
-Ya. Yang-melakukan penyerangan, pemerkosaan, dan pembakaran adalah orang-orang yang sama. Tapi, yang melakukan penjarahan berbeda. Mereka hanya ikut-ikutan karena diajak.
+Ya. Yang melakukan penyerangan, pemerkosaan, dan pembakaran adalah orang-orang yang sama. Tapi, yang melakukan penjarahan berbeda. Mereka hanya ikut-ikutan karena diajak.
 
 Bagaimana dengan para pelaku penculikan aktivis-aktivis. Adakah kesamaannya?
 
@@ -979,7 +979,7 @@ Soal keeksklusifan orang Tionghoa, saya pikir, semua orang punya eksklusivitas d
 
 Orang Tionghoa yang lahir di Indonesia, bukan generasi pertama, pada dasarnya orang Indonesia, bukan Tionghoa. Mereka warga negara Indonesia keturunan Tionghoa yang sudah tidak bisa berbahasa Mandarin
 
-Kalau pergi sebulan saja dari negeri ini, sudah tidak betah. Kerinduannya pada pecel dan tempe besar sekali. Saya, misalnya, delapan tahun berada di Amerika Sertkat. Sesudah selesai studi, ada yang menawari pekerjaan. Tapisay tolak. Saya mau ke Indonesia saja, karena capek ngomong Inggris terus. Sampai mimpi pun pakai bahasa Inggris
+Kalau pergi sebulan saja dari negeri ini, sudah tidak betah. Kerinduannya pada pecel dan tempe besar sekali. Saya, misalnya, delapan tahun berada di Amerika Serikat. Sesudah selesai studi, ada yang menawari pekerjaan. Tapi saya tolak. Saya mau ke Indonesia saja, karena capek ngomong Inggris terus. Sampai mimpi pun pakai bahasa Inggris
 
 Saya ingin tekankan juga saya tidak yakin kerusuhan Mei lalu adalah kerusuhan rasial. Buktinya, sesudah kerusuhan terjadi, para relawannya orang pribumi. Dan mereka semua mengakui, itu biadab
 
@@ -993,7 +993,7 @@ Saya menangis memikirkan nasib Republik Indonesia berdasar Pancasila yang lahir 
 
 Massa yang beringas dan brutal telah menjarah dan memusuhi sesama rakyat, yang kebetulan berbeda etnik dan berbeda ekonomi. Namun, aparat keamanan tidak kelihatan batang hidungnya, di saat penjarah merajalela.
 
-Yang dibakar oleh perusuh pada 13 Mei bukan sekadar bangunan fisik atau rumah. Tapi, rasa kemanusiaan yang-adil dan beradab,.yang sulit dipulihkan seperti mengembalikan bekas jarahan kepada pemilik sah.
+Yang dibakar oleh perusuh pada 13 Mei bukan sekadar bangunan fisik atau rumah. Tapi, rasa kemanusiaan yang adil dan beradab,.yang sulit dipulihkan seperti mengembalikan bekas jarahan kepada pemilik sah.
 
 ![](epub_assets/p49_0.jpg)
 
@@ -1324,7 +1324,7 @@ Perbedaan yang muncul karena kekhasan itu adalah suci dan dimaksudkan agar manus
 
 Demikian juga menjadi orang Tionghoa. Di satu pihak, perlakuan buruk atas
 
-asar perbedaan ras, khususnya peng ayaan yang tertuju kepada mereka ak ir-akhir ini, adalah tindakan yang merendahkan martabat manusia dan melawkeadilan.
+asar perbedaan ras, khususnya peng ayaan yang tertuju kepada mereka akhir-akhir ini, adalah tindakan yang merendahkan martabat manusia dan melawkeadilan.
 
 Kekerasan yang dilakukan terhadap mereka yang dilahirkan dan dibesarkan di Indonesia, sebagai satu-satunya negeri dan tanah air mereka, telah menodai bangsa Indonesia sendiri.
 

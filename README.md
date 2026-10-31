@@ -2,6 +2,8 @@
 
 Source of the EPUB built from a scanned PDF (OCR via TurboOCR).
 
+Source: https://langka.logosid.app/book/476
+
 ## Build
 
 Do not run any other build script. The pipeline is the only supported path.
