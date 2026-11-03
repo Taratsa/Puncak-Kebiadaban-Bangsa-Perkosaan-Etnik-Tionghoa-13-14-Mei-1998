@@ -692,24 +692,21 @@ Ini menunjukkan, jikalau mereka dibedakan. Kegagalan pembauran ini bisa dilihat 
 
 # Apa Kata Mereka?
 
-
 AMUK MASSA BERBAU RASIAL YANG meletus pada 13-14 Mei lalu di Jakarta dan beberapa kota besar lain di Indonesia, mengundang komentar berbagai kalangan.
 
-Berikut, petikan beberapadi antaranya:
+Berikut, petikan beberapa di antaranya:
 
-Romo Sandyawan Sumardi, Sekretaris I Tim Relawan untuk Kemanusiaan Ini merupakan sebuah pornografi politik yang paling mengerikan. Korbannya begitu masif, sangat dramatis dari segi cara, metode, dan dari segi ketidakpedulian pada kondisi psikologis korban.
+## Romo Sandyawan Sumardi, Sekretaris I Tim Relawan untuk Kemanusiaan
 
 ![](epub_assets/p42_0.jpg)
 
+Ini merupakan sebuah pornografi politik yang paling mengerikan. Korbannya begitu masif, sangat dramatis dari segi cara, metode, dan dari segi ketidakpedulian pada kondisi psikologis korban.
+
 Pada waktu itu, ada 970 mayat di Rumah Sakit Cipto Mangunkusumo. Kami masuk ke sana, langsung pusing. Bukan karena bau, tapi kenangan betapa berdarahnya rezim ini. Itulah yang membuat kami pusing betul.
 
-![](epub_assets/p43_0.jpg)
-
-![](epub_assets/p43_1.jpg)
-
-![](epub_assets/p43_2.jpg)
-
 ## Nursyahbani Katjasungkana, S.H., Direktur Lembaga Bantuan Hukum -Asosiasi Perempuan Indonesia untuk Keadilan (LBH-APIK)
+
+![](epub_assets/p43_0.jpg)
 
 Ini sebuah strategi untuk tetap mengherokan ABRI. Setelah peristiwa penembakan mahasiswa Trisakti, ABRI terpojok betul. Di sini militer perlu keluar dari keterpojokan itu dengan penciptaan.
 
@@ -717,9 +714,13 @@ Ke mana ABRI ketika kerusuhan terjadi? Baru setelahnya, beberapa perwira ABRI me
 
 ## Onghokham, Sejarawan
 
+![](epub_assets/p43_1.jpg)
+
 Boleh dikata, ini kerusuhan besar pertama yang terjadi di Jakarta. Mungkin bukan yang terbesar skalanya dalam sejarah Republik, tapi cukup mengejutkan. Sebab, peristiwanya meletus di Ibu Kota. Berarti, aparat keamanan tidak bisa mengamankan Jakarta. Kalau Ibu Kota saja gagal diamankan, tak ada sesuatu lagi yang aman.
 
 ## Hendardi, Direktur Eksekutif Perhimpunan Bantuan Hukum dan Hak Asasi Manusia
+
+![](epub_assets/p43_2.jpg)
 
 Peristiwa kerusuhan menghancurkan mitos perlindungan keamanan masyarakat yang selama ini dijamin ABRI lewat pernyataan-pernyataan bahwa stabilitas aman dan terkendali.
 
@@ -737,23 +738,23 @@ Memang, rekayasa politik pada kerusuhan Mei lalu itu ada dan lihai. Sangat cangg
 
 Tentang pemerkosaan massal, ada indikasi yang melakukannya adalah orang-orang yang tidak dikenal para tetangga. Secara psikologis, orang sulit melakukan pemerkosaan, jika tidak sakit jiwa. Untuk bisa mengumpulkan orang yang sakit jiwa begitu banyak pada saat dan tempat yang sama, kan perlu organisasi.
 
-![](epub_assets/p45_0.jpg)
-
-![](epub_assets/p45_1.jpg)
-
-![](epub_assets/p45_2.jpg)
-
 ## Nurcholis Madjid, Cendekiawan Muslim dan Ketua Yayasan Paramadina
+
+![](epub_assets/p45_0.jpg)
 
 Untuk mencegah terjadinya kembali kerusuhan massa, harus ada kemauan politik dari para pemimpin yang otentik secara etis dan moral. Selain itu, harus ada keterbukaan dan kejujuran dalam penyelenggaraan pemerintahan dan kekuasaan. Faktor itu juga merupakan kunci penting penyelesaian masalah pribumi dan nonpribumi.
 
 ## Rudy Hartono, Pemain Bulu Tangkis, Juara All England 8 Kali
+
+![](epub_assets/p45_1.jpg)
 
 Saya paling tidak setuju adanya pengkotak-kotakan dalam masyarakat. Contoh gamblang adalah soal pembuatan Kartu Tanda Penduduk (KTP). Jelas tertera adanya pembedaan antara saya dengan warga negara lainnya. Ini saya rasa tidak benar.
 
 Soal istilah pri dan nonpri, sudah saatnya tidak lagi dikedepankan. Bagi warga keturunan Tionghoa, saya menganjurkan, agar tidak lagi bersikap eksklusif di tengah masyarakat umum, meski sebenarnya saat ini sudah mulai banyak juga warga Tionghoa yang tidak berlaku demikian.
 
 ## Amien Rais, Ketua Pimpinan Pusat Muhammadiyah
+
+![](epub_assets/p45_2.jpg)
 
 Di kota kelahiran saya, Solo, antara warga keturunan dan warga pribumi senantiasa mesra, dan nyaris tak ada jarak. Karena itu, saya tidak rela bila rumah dan toko warga keturunan etnik Tionghoa dibakari. Etnik Tionghoa adalah bagian integral dari bangsa Indonesia.
 
@@ -767,9 +768,9 @@ Untuk itu, pembauran harus didukung oleh pengembangan dan peningkatan faktor int
 
 ## Sofyan Wanandi, Pengusaha
 
-Saya perkirakan, jumlah warga keturunan Tionghoa yang pergi ke luar negeri akibat kerusuhan kemarin, jumlahnya antara 10.000-30.000 orang. Tidak sampai 100.000. Kalau hanya 30.000 orang yang pergi, itu kan sangat kecil jika dibandingkan dengan 5 juta warga keturunan Tionghoa di Indonesia.
-
 ![](epub_assets/p47_0.jpg)
+
+Saya perkirakan, jumlah warga keturunan Tionghoa yang pergi ke luar negeri akibat kerusuhan kemarin, jumlahnya antara 10.000-30.000 orang. Tidak sampai 100.000. Kalau hanya 30.000 orang yang pergi, itu kan sangat kecil jika dibandingkan dengan 5 juta warga keturunan Tionghoa di Indonesia.
 
 Yang pergi, bukan yang besar-besar. Sebab, yang besar-besar itu sejak lama sudah menanam bisnisnya dan sudah menjadi global. Yang lari itu yang menengah dan kalangan profesional yang bisa kerja di mana saja, karena pendidikannya tinggi, pintar, dan tidak punya perusahaan.
 
@@ -777,13 +778,13 @@ Saya mengerti, mereka sangat trauma akibat adanya ancaman yang mengganggu kesela
 
 ## Ester Indahjani Jusuf S.H., Ketua Komite Pemuda Indonesia untuk Penghapusan Diskriminasi Ras (Solidaritas Nusa Bangsa)
 
+![](epub_assets/p47_1.jpg)
+
 Ada kebijakan-kebijakan politik tertentu dari rezim Orde Baru yang mengakibatkan terjadinya kerusuhan ini, Memang, di masa itu ada segelintir orang Tionghoa yang mendapat kemudahan dari aparat dalam menjalankan roda perekonomian. Ini
 
 menimbulkan kecemburuan sosial yang besar.
 
 Tapi, kita tidak bisa menyalahkan orang Tionghoa semata. Sebab, siapa sebetulnya yang mula-mula memberikan fasilitas itu? Lagipula, bukan hanya etnik Tionghoa yang mendapatkan kemudahan tersebut. Mengapa pemerintah membiarkan sentimen tertentu tumbuh?
-
-![](epub_assets/p47_1.jpg)
 
 Sebetulnya, jika sampai terjadi sentimen terhadap ras tertentu dalam suatu negara, sudah menjadi tugas negara untuk menanamkan rasa persatuan bangsa kepada masyarakatnya. Namun, kalau selama 32 tahun sentimen ini tumbuh, menjadi pertanyaan juga buat kami. Mengapa tidak ada kebijakan khusus untuk mengatasinya?
 
@@ -799,17 +800,17 @@ Saya ingin tekankan juga saya tidak yakin kerusuhan Mei lalu adalah kerusuhan ra
 
 Yang terjadi pada 13-14 Mei, membuat kita harus kembali berkaca. Apakah kita masih dalam tahap tribalisme, menurut istilah Nurcholis Madjid, merasa manusia di luar kelompok kita merupakan sub human, manusia yang lebih rendah derajatnya.
 
-Kita harus bangkitkan lagi keyakinan, manusia itu lahir meski bukan bagian kelompok kita—adalah manusia juga. Jangan lalu berkata,"Ah, itu kan orang Cina, diperkosa biarin aja." Selama berpikir begitu, hal ini akan terjadi lagi Bukan hanya pada orang Tionghoa, tapi bisa kelompok atau orang lain. Ini tribalisme.
+Kita harus bangkitkan lagi keyakinan, manusia itu lahir meski bukan bagian kelompok kita—adalah manusia juga. Jangan lalu berkata,“Ah, itu kan orang Cina, diperkosa biarin aja.” Selama berpikir begitu, hal ini akan terjadi lagi Bukan hanya pada orang Tionghoa, tapi bisa kelompok atau orang lain. Ini tribalisme.
 
 ## Christianto Wibisono, Direktur Pusat Data Bisnis Indonesia
+
+![](epub_assets/p49_0.jpg)
 
 Saya menangis memikirkan nasib Republik Indonesia berdasar Pancasila yang lahir 17 Agustus 1945. Penembakan mahasiswa pada 12 Mei telah memicu penjarahan dan perusakan yang belum pernah terjadi dalam sejarah Republik. Junus Yahya mengecam aksi itu, karena menunjukkan gejala ethnic cleansing seperti di bekas Yugoslavia.
 
 Massa yang beringas dan brutal telah menjarah dan memusuhi sesama rakyat, yang kebetulan berbeda etnik dan berbeda ekonomi. Namun, aparat keamanan tidak kelihatan batang hidungnya, di saat penjarah merajalela.
 
-Yang dibakar oleh perusuh pada 13 Mei bukan sekadar bangunan fisik atau rumah. Tapi, rasa kemanusiaan yang adil dan beradab,.yang sulit dipulihkan seperti mengembalikan bekas jarahan kepada pemilik sah.
-
-![](epub_assets/p49_0.jpg)
+Yang dibakar oleh perusuh pada 13 Mei bukan sekadar bangunan fisik atau rumah. Tapi, rasa kemanusiaan yang adil dan beradab, yang sulit dipulihkan seperti mengembalikan bekas jarahan kepada pemilik sah.
 
 Yang dibunuh oleh perusuh bukan sekadar bangkai atau mayat ratusan orang yang terpanggang di pertokoan. Yang sedang dibunuh ialah watak sopan santun, belas kasihan, dan peri kemanusiaan dari Ibu Pertiwi, bangsa, dan negara.
 
@@ -819,7 +820,7 @@ Bila ada warga keturunan yang berkolusi, itu tidak berarti seluruh lima juta war
 
 Kita harus menilai orang secara individual, dan bukan secara kelompok etnik. Warga keturunan bukan orang asing yang bisa dievakuasi seperti warga asing. Warga keturunan jelas mempunyai hak hidup di bumi Indonesia.
 
-Warga keturunan juga adalah pendiri negeri ini, yang diwakili dalam Badan Penyelidik Usaha Persiapan Kemerdekaan Indonesia (BPUPKI) oleh Mr. Tan Eng Hoa, Oei Tjong Hauw, Mr. Liem Koen Hian, dan Oei Tiang Tjoei.
+Warga keturunan juga adalah pendiri negeri ini, yang diwakili dalam Badan Penyelidik Usaha Persiapan Kemerdekaan Indonesia (BPUPKI) oleh Mr. Tan Eng Hoa, Oei Tjong Hauw, Mr. Liem Koen Hian, dan Oei Tiang Tjoei.
 
 Saya ingin menegaskan, warga negara keturunan Cina punya hak hidup, dan akan mempertahankan hak untuk hidup di bumi Indonesia, sebagai umat yang dicipta oleh Tuhan secara bermartabat.
 
@@ -827,58 +828,72 @@ Saya ingin menegaskan, warga negara keturunan Cina punya hak hidup, dan akan mem
 
 # Di Mana Kau, Ibu?
 
-*Menyoal Lambannya Upaya Pemerintah*
-
+***Menyoal Lambannya Upaya Pemerintah***
 
 DI BALIK KEBISUAN DINDING RUMAH, TAK TERBILANG WNI keturunan Tionghoa yang hingga kini meratapi nasibnya. Entah istri, anak, saudara, atau kerabat mereka menjadi korban. Namun, mereka memilih bungkam, pasrah.
 
 Keengganan mereka melapor ke aparat keamanan boleh jadi didasari pengalaman menyesakkan saat terjadinya kerusuhan. Seperti dialami Rina (bukan nama sebenarnya).
 
-Ketika ruko milik keluarganya di Jakarta Barat diserbu tujuh orang, Rina dan dua adiknya yang kebetulan sedang berada di lantai tiga, dipaksa telanjang. Rina tidak diapa-apakan, karena dianggap sudah berumur. Penderitaannya memuncak, ketika dipaksa menyaksikan kedua adiknya disetubuhi.
-
-Setelah menyalurkan nafsu liarnya, para pemerkosa itu membakar ruko. Jeritan keta-
-
-kan amarah terhadap aparat keamanan, lantaran membiarkan peristiwa biadab itu terjadi di depan mata, selama ini kebanyakan etnik Tionghoa Indonesia sedapat mungkin menghindari hubungan dengan petugas keamanan.
-
-Sebab, petugas keamanan berarti uang ekstra. Itu pun tidak menjamin, kasus mereka bakal tuntas. Masuk akal, jika kemudian mereka memilih diam seribu bahasa.
-
-Di Solo, sampai pertengahan Juni kemarin, masih ada sejumlah orang yang mendatangi para korban kerusuhan
-
 ![](epub_assets/p51_0.jpg)
 
-kutan, raung kesedihan, amarah, dan permintaan ampun, bercampur dari mulut kakak-beradik itu. Sia-sia. Malahan, kedua gadis yang diperkosa itu didorong ke lantai dasar yang sudah terpanggang api. Keduanya tewas.
+Ketika ruko milik keluarganya di Jakarta Barat diserbu tujuh orang, Rina dan dua adiknya yang kebetulan sedang berada di lantai tiga, dipaksa telanjang. Rina tidak diapa-apakan, karena dianggap sudah berumur. Penderitaannya memuncak, ketika dipaksa menyaksikan kedua adiknya disetubuhi.
+
+Setelah menyalurkan nafsu liarnya, para pemerkosa itu membakar ruko. Jeritan ketakutan, raung kesedihan, amarah, dan permintaan ampun, bercampur dari mulut kakak-beradik itu. Sia-sia. Malahan, kedua gadis yang diperkosa itu didorong ke lantai dasar yang sudah terpanggang api. Keduanya tewas.
 
 Rina tahu, di depan rukonya ada beberapa petugas keamanan. Tapi, mereka diam saja. Bahkan, di deretan rukonya masih ada empat keluarga lain yang mengalami musibah serupa. Itu pun tidak dicegah aparat.
 
-Selain pengalaman yang menimbul-
+Selain pengalaman yang menimbulkan amarah terhadap aparat keamanan, lantaran membiarkan peristiwa biadab itu terjadi di depan mata, selama ini kebanyakan etnik Tionghoa Indonesia sedapat mungkin menghindari hubungan dengan petugas keamanan.
 
-dan mengancam. Katanya, kalau berani membangun rumahnya lagi, maka rumahnya akan dibakar dan anaknya diperkosa.
+Sebab, petugas keamanan berarti uang ekstra. Itu pun tidak menjamin, kasus mereka bakal tuntas. Masuk akal, jika kemudian mereka memilih diam seribu bahasa.
 
-"Melapor kepada aparat? Buat apa?" kata seorang nyonya yang tempat usahanya sekarang tinggal puing dan abu. Ia merasa sakit hati, karena laporannya tidak ditanggapi sama sekali oleh aparat.
+Di Solo, sampai pertengahan Juni kemarin, masih ada sejumlah orang yang mendatangi para korban kerusuhan dan mengancam. Katanya, kalau berani membangun rumahnya lagi, maka rumahnya akan dibakar dan anaknya diperkosa.
 
-Di samping sikap apatis terhadap petugas keamanan, korban punya alasan lain untuk tidak melapor. "Ada di antara mereka yang mendapat ancaman lewat telepon. Mereka akan dibunuh jika melapor. Karena itu, kami sangat menjaga kerahasiaan para korban," kata Ita yang juga tak lepas dari ancaman teror.
+“Melapor kepada aparat? Buat apa?” kata seorang nyonya yang tempat usahanya sekarang tinggal puing dan abu. Ia merasa sakit hati, karena laporannya tidak ditanggapi sama sekali oleh aparat.
+
+Di samping sikap apatis terhadap petugas keamanan, korban punya alasan lain untuk tidak melapor. “Ada di antara mereka yang mendapat ancaman lewat telepon. Mereka akan dibunuh jika melapor. Karena itu, kami sangat menjaga kerahasiaan para korban,” kata Ita yang juga tak lepas dari ancaman teror.
 
 Maka, tidak heran jika kepada sebuah harian Ibu Kota yang mewawancarainya akhir Juni lalu, Kepala Dinas Penerangan Kepolisian Dinas Metro Jakarta Raya Letnan Kolonel (Polisi) Drs. Edward Aritonang, menyatakan, sejauh ini pihaknya belum menerima laporan tentang penyerangan terhadap perempuan saat kerusuhan terjadi.
+
+![](epub_assets/p52_0.jpg)
 
 ## Baru Sekadar Isu
 
 SESUNGGUHNYA, BENARKAH TERJADI PERISTIWA pemerkosaan dalam kerusuhan di pertengahan Mei lalu?
 
-Ibu, Pengayom kami Para perempuan negara ini Mendamba tanya....
+*Ibu, Pengayom kami\
+Para perempuan negara ini Mendamba tanya ....*
 
-Kala rasa takut tak juga menyurut Kala sakit tak tuntas diteriakkan Kala amarah tak habis mereka kunyah Kaum kami itu ambruk terpuruk tak berbentuk Luka-luka jiwa dan raga parah bernanah Hangus berarang hati dan perasaan terpanggang di atas puing-puing kehancuran maka bagaimanakah Ibu menyikapinya?
+*Kala rasa takut tak juga menyurut\
+Kala sakit tak tuntas diteriakkan\
+Kala amarah tak habis mereka\
+kunyah\
+Kaum kami itu ambruk terpuruk\
+tak berbentuk\
+Luka-luka jiwa dan raga parah\
+bernanah\
+Hangus berarang hati dan perasaan terpanggang di atas puing-puing\
+kehancuran\
+maka\
+bagaimanakah Ibu menyikapinya?*
 
-Ibu, Bila masih tersisa nurani bagi kaum kami Kami hanya mendamba bersabdalah Sepatah kata saja Maka mereka akan tersapa, sebagai manusia
+*Ibu,\
+Bila masih tersisa nurani bagi\
+kaum kami\
+Kami hanya mendamba\
+bersabdalah\
+Sepatah kata saja\
+Maka mereka akan tersapa, sebagai\
+manusia*
 
-![](epub_assets/p52_0.jpg)
+*Akhirnya,\
+wahai Ibu\
+kami hanya bertanya sesungguhnya apakah peran\
+Menteri Peranan Wanita\
+di Negara Pancasila?*
 
-Akhirnya, wahai Ibu kami hanya bertanya sesungguhnya apakah peran Menteri Peranan Wanita di Negara Pancasila?
+Demikian bunyi salah satu surat pembaca yang dimuat di majalah D & R terbitan awal Juli lalu. Sayangnya, Ibu yang didamba hanya bicara singkat saat ditanya pers akhir Juni silam, “Itu baru sekadar isu.”
 
-Demikian bunyi salah satu surat pembaca yang dimuat di majalah D & R terbitan awal Juli lalu. Sayangnya, Ibu yang didamba hanya bicara singkat saat ditanya pers akhir Juni silam, "Itu baru sekadar isu."
-
-Keruan saja sikap acuh tak acuh Hj. Tutty Alawiyah itu membuat LSM-LSM perempuan, dan para simpatisan korban gemas. Tanggapan Ibu Menteri itu
-
-didasari fakta, tidak adanya satu pun laporan yang mendarat di mejanya.
+Keruan saja sikap acuh tak acuh Hj. Tutty Alawiyah itu membuat LSM-LSM perempuan, dan para simpatisan korban gemas. Tanggapan Ibu Menteri itu didasari fakta, tidak adanya satu pun laporan yang mendarat di mejanya.
 
 ## Tidak Ada Korban
 
@@ -886,7 +901,7 @@ TAK HANYA MENTERI URUSAN PERANAN WANITA yang menyangsikan adanya korban kekerasa
 
 Menurut Pangab, ABRI yang bekerja sama dengan berbagai pihak, telah mendatangi alamat yang diduga menjadi korban pemerkosaan. Tapi sejauh ini mereka mengelak dan menyangkal sebagai korban, bahkan membantah kalau mereka pernah memberikan keterangan kepada pihak tertentu.
 
-Tim ABRI pun telah mengusut 20 rumah yang menampung korban kerusuhan 13-14 Mei. Laporan resmi tim mengatakan, dari 630 korban yang dirawat, 12 meninggal, 87 rawat inap, sisanya bisa pulang hari itu juga. Namun, "Tidak disebutkan adanya korban akibat pemerkosaan," kata Pangab.
+Tim ABRI pun telah mengusut 20 rumah yang menampung korban kerusuhan 13-14 Mei. Laporan resmi tim mengatakan, dari 630 korban yang dirawat, 12 meninggal, 87 rawat inap, sisanya bisa pulang hari itu juga. Namun, “Tidak disebutkan adanya korban akibat pemerkosaan,” kata Pangab.
 
 Upaya yang tak kenal lelah dari Tim Relawan, akhirnya membuahkan hasil. Sejumlah korban atau keluarganya mulai melakukan kontak dengan Tim Relawan.
 
@@ -896,7 +911,7 @@ TERUNGKAPNYA KASUS KEKERASAN TERHADAP perempuan etnik Tionghoa berawal dari tele
 
 Temuan awal itu membuat Tim Relawan bertanya-tanya. Bukan tak mungkin, hal serupa terjadi juga pada perempuan keturunan Tionghoa yang lain. Lalu, mulailah mereka melakukan investigasi, setelah lebih dulu membentuk Tim Relawan untuk Kemanusiaan Divisi Kekerasan terhadap Perempuan, di bawah koordinasi Ita Fatia Nadia, Direktur LSM perempuan Kalyanamitra.
 
-"Meski sudah dua bulan berlalu setelah kerusuhan, masih sulit melakukan investigasi," Ita mengakui. Saat mereka memverifikasi laporan, yang kebanyakan diterima per telepon, ternyata para korban dan keluarga sudah pergi ke luar negeri. Beberapa korban malah sudah keburu tewas dicekik, dilempar ke api, atau bunuh diri.
+“Meski sudah dua bulan berlalu setelah kerusuhan, masih sulit melakukan investigasi,” Ita mengakui. Saat mereka memverifikasi laporan, yang kebanyakan diterima per telepon, ternyata para korban dan keluarga sudah pergi ke luar negeri. Beberapa korban malah sudah keburu tewas dicekik, dilempar ke api, atau bunuh diri.
 
 Karena pelecehan dan pemerkosaan erat kaitannya dengan martabat perempuan, maka banyak pula korban yang tak ingin noda tanpa dosa ini diketahui orang lain. Mereka lebih memilih menyimpannya rapat-rapat sebagai rahasia keluarga.
 
@@ -904,13 +919,13 @@ Karena pelecehan dan pemerkosaan erat kaitannya dengan martabat perempuan, maka 
 
 SELANG SEBULAN LEBIH SETELAH KERUSUHAN, Menteri Negara Urusan Peranan Wanita (Menperta) Hj. Tutty Alawiyah, akhirnya membantah ucapannya yang lalu. Ia mengaku sangat peduli tentang pemberitaan kasus perkosaan yang terjadi, berbarengan dengan peristiwa kerusuhan pertengahan Mei silam.
 
-Katanya, "Masalah ini sangat sensitif, sehingga penanganannya harus dilakukan ekstra hati-hati." Begitu mendengar adanya berita-berita mengenai pemerkosaan, tanggal 8 Juni 1998, setelah melakukan rapat koordinasi, Kantor Menperta melakukan siaran berita mengenai dibukanya "hotline" komunikasi guna mengantisipasi laporan yang berkaitan dengan kasus perkosaan itu.
+Katanya, “Masalah ini sangat sensitif, sehingga penanganannya harus dilakukan ekstra hati-hati.” Begitu mendengar adanya berita-berita mengenai pemerkosaan, tanggal 8 Juni 1998, setelah melakukan rapat koordinasi, Kantor Menperta melakukan siaran berita mengenai dibukanya “hotline” komunikasi guna mengantisipasi laporan yang berkaitan dengan kasus perkosaan itu.
 
 Namun, informasi yang diharapkan muncul lewat nomor telpon 380-5530 dan 380-5559, tidak terjadi. Malahan, Kantor Menperta menjadi sasaran umpatan lewat telepon. Belum lagi surat-surat pembaca di beberapa harian, yang intinya menyesalkan sikap lembaga pimpinan Hj. Tutty Alawiyah, serta protes karena Menperta dianggap tak berbuat sesuatu berkaitan dengan peristiwa tersebut.
 
 Sudah dikritik lamban, dinilai rasialis lagi. Begitulah pemberitaan pers asing tentang upaya yang dilakukan pemerintah. Konon, ada perbedaan penanganan terhadap korban-korban kerusuhan.
 
-Namun, Kapolri Letjen. Pol. Drs. Roesmanhadi S.H., membantah. "Jangan percaya semua itu. Buktinya semua korban kerusuhan antara lain, etnik Tionghoa, Jawa, Sunda, dan sebagainya, telah ditangani dengan baik. Hingga saat ini kami belum menerima keluhan dari warga, soal perbedaan penanganan Polri terhadap korban kerusuhan," katanya kepada wartawan di Mabes Polri Jakarta Selatan, Sabtu (1/8).
+Namun, Kapolri Letjen. Pol. Drs. Roesmanhadi S.H., membantah. “Jangan percaya semua itu. Buktinya semua korban kerusuhan antara lain, etnik Tionghoa, Jawa, Sunda, dan sebagainya, telah ditangani dengan baik. Hingga saat ini kami belum menerima keluhan dari warga, soal perbedaan penanganan Polri terhadap korban kerusuhan,” katanya kepada wartawan di Mabes Polri Jakarta Selatan, Sabtu (1/8).
 
 ## Pencari Fakta Gabungan
 
@@ -920,7 +935,7 @@ Berdasarkan pengamatan Komnas HAM, telah terjadi kevakuman keamanan pada hari-ha
 
 Vakumnya keamanan tersebut menunjukkan kealpaan dari penanggungjawab sipil dan militer, demikian pernyatan resmi Komnas HAM tentang Kekerasan Seksual termasuk Pemerkosaan Terhadap Kelompok Etnik Cina dan Warga Negara Lainnya.
 
-Akhirnya, pernyataan maaf yang ditunggu banyak kalangan itu, keluar juga. Menhamkam/Panglima ABRI, Jenderal Wiranto, mengatakan ABRI tidak segan-segan meminta maaf, bahwa peristiwa kerusuhan 13-15 Mei tidak dapat dicegah dan dihindarkan. "ABRI mengutuk, dan akan membongkar pelaku tindak kekerasan dari manapun asalnya," kata Wiranto seperti dikutip sebuah harian Ibu Kota pada 4 Agustus lalu.
+Akhirnya, pernyataan maaf yang ditunggu banyak kalangan itu, keluar juga. Menhamkam/Panglima ABRI, Jenderal Wiranto, mengatakan ABRI tidak segan-segan meminta maaf, bahwa peristiwa kerusuhan 13-15 Mei tidak dapat dicegah dan dihindarkan. “ABRI mengutuk, dan akan membongkar pelaku tindak kekerasan dari manapun asalnya,” kata Wiranto seperti dikutip sebuah harian Ibu Kota pada 4 Agustus lalu.
 
 Menurut Wiranto, ABRI akan menuntaskan kasus-kasus yang muncul seputar era reformasi, seperti kasus orang hilang, penembakan mahasiswa Trisakti, hingga kerusuhan 13-14 Mei. Hal inilah yang melatarbelakangi pembentukan Tim Pencari Fakta Gabungan (TPFG) untuk mengusut kerusuhan.
 
@@ -928,34 +943,33 @@ Tim yang dibentuk 23 Juli 1998 ini, melibatkan sejumlah organisasi nonpemerintah
 
 Adanya TPFG ini paling tidak memberi secercah harapan, akan perbaikan ketentraman suasana hidup bermasyarakat. Diharapkan, dalam waktu singkat, diperkirakan tiga bulan, bakal ketahuan hasil penyelidikannya.
 
-Akankah TPFG membongkar jaringan perencana dan pelaku seluruhnya? Ataukah — seperti kebanyakan kasus pada umumnya — hanya berakhir pada kroco-kroco, yang hanya menjalankan perintah atasan? Kita tunggu saja.
+Akankah TPFG membongkar jaringan perencana dan pelaku seluruhnya? Ataukah—seperti kebanyakan kasus pada umumnya—hanya berakhir pada kroco-kroco, yang hanya menjalankan perintah atasan? Kita tunggu saja.
+
+<p style="text-align: right; margin-top: 2em; font-size: 0.75em;"><em>dari berbagai sumber</em></p>
 
 ---
 
 # Dari Berbagai Penjuru Simpati Mengalir
 
-
 AKSI KERUSUHAN, PEMERKOSAAN MASSAL yang terjadi pada 13-14 Mei 1998, melahirkan simpati dari kalangan masyarakat. Berbagai organisasi masyarakat, para pemuka agama, hingga orang per orang, mengecam aksi yang keji itu sebagai sangat tidak berperikemanusiaan. Mereka menggelar aksi protes dan keprihatinan dengan cara doa bersama, penandatanganan pernyataan sikap.
 
-Seperti yang dilakukan Wadah Musyawarah Antar Umat Beragama yang terdiridari Majelis Ulama Indonesia (MUI), Persekutuan Gereja-Gereja Indonesia (PGI), Konferensi Waligereja Indonesia (KWI), Parisada Hindu Dharma Indonesia (Parisada), dan Perwalian Umat Budha Indonesia (Walubi). Mereka mengecam keras tindakan destruktif dan amoral yang terjadi pertengahan Mei lalu. Pernyataan keprihatinan tersebut kemudian diserahkan kepada Menteri Agama Malik Fadjar, Selasa (14/7)
+Seperti yang dilakukan Wadah Musyawarah Antar Umat Beragama yang terdiri dari Majelis Ulama Indonesia (MUI), Persekutuan Gereja-Gereja Indonesia (PGI), Konferensi Waligereja Indonesia (KWI), Parisada Hindu Dharma Indonesia (Parisada), dan Perwalian Umat Budha Indonesia (Walubi). Mereka mengecam keras tindakan destruktif dan amoral yang terjadi pertengahan Mei lalu. Pernyataan keprihatinan tersebut kemudian diserahkan kepada Menteri Agama Malik Fadjar, Selasa (14/7)
 
-Sementara itu, kira-kira sebulan sebelumnya, kaum pemuka agama dan masyarakat urun simpati dengan mengeluarkan "Pertanggungjawaban Ha ti Nurani" di kediaman Ketua Umum Pengurus Besar Nahdlatul Ulama, K.H. Abdurrahman Wahid, di kawasan Ciganjur, Jakarta.
+Sementara itu, kira-kira sebulan sebelumnya, kaum pemuka agama dan masyarakat urun simpati dengan mengeluarkan “Pertanggungjawaban Hati Nurani” di kediaman Ketua Umum Pengurus Besar Nahdlatul Ulama, K.H. Abdurrahman Wahid, di kawasan Ciganjur, Jakarta.
 
-Mereka mendesak agar pemerintah bersama tim independen mengusut secara transparan dan tuntas, mereka yang termasuk jaringan penyulut dan pengobar kebencian, sehingga' terjadi kerusuhan pada 13-14 Mei 1998.
+Mereka mendesak agar pemerintah bersama tim independen mengusut secara transparan dan tuntas, mereka yang termasuk jaringan penyulut dan pengobar kebencian, sehingga terjadi kerusuhan pada 13-14 Mei 1998.
 
 Mereka juga menganjurkan kepada pemerintah dan pihak-pihak yang berwajib serta siapa saja yang tergerak, untuk memperjuangkan keadilan, dan berusaha menghentikan segala macam bentuk pemecahbelahan kehidupan bermasyarakat.
 
-Doa massal dari berbagai umat beragama — Islam, Kristen, Katolik, Buddha, Hindu, Kong Hu Chu, dan Aliran Kepercayaan — ini pada intinya mengutuk para pelaku tindak kerusuhan dan pemerkosaan yang biadab. Mereka juga memohon, agar para korban dan keluarga mereka diberi kekuatan iman serta ketabahan atas kejadian memilukan yang telah menimpa mereka.
-
-Doa bersama pun dihaturkan para aktivis perempuan dari berbagai organisasi. Meski hujan lebat sempat meng-
-
-"Sekarang, kejadian itu tertuju kepada warga keturunan Tionghoa. Jika tidak diberantas, hal itu akan menimpa suku bangsa lainnya juga," demikian antara lain bunyi pernyataan bersama tersebut.
-
 ![](epub_assets/p56_0.jpg)
+
+“Sekarang, kejadian itu tertuju kepada warga keturunan Tionghoa. Jika tidak diberantas, hal itu akan menimpa suku bangsa lainnya juga,” demikian antara lain bunyi pernyataan bersama tersebut.
 
 Selain ramai-ramai membuat pernyataan keprihatinan, di berbagai tempat diadakan pula doa bersama. Misalnya, doa yang dinaikkan oleh Masyarakat Korban dan Gerakan Orde Hati Nurani Pembela Korban di Lapangan Banteng, Jakarta Pusat, pada awal Agustus kemarin.
 
-guyur Jakarta 23 Juli silam, acara Doa Perempuan di Gedung Wanita Nyi Ageng Serang, kawasan Kuningan, Jakarta, tetap berlangsung hikmat.
+Doa massal dari berbagai umat beragama—Islam, Kristen, Katolik, Buddha, Hindu, Kong Hu Chu, dan Aliran Kepercayaan—ini pada intinya mengutuk para pelaku tindak kerusuhan dan pemerkosaan yang biadab. Mereka juga memohon, agar para korban dan keluarga mereka diberi kekuatan iman serta ketabahan atas kejadian memilukan yang telah menimpa mereka.
+
+Doa bersama pun dihaturkan para aktivis perempuan dari berbagai organisasi. Meski hujan lebat sempat mengguyur Jakarta 23 Juli silam, acara Doa Perempuan di Gedung Wanita Nyi Ageng Serang, kawasan Kuningan, Jakarta, tetap berlangsung hikmat.
 
 Tak kurang 1.000 peserta berikrar, melawan semua kebijakan dan politik kekerasan oleh siapa pun. Kekerasan adalah cara yang tidak dapat dimaafkan, karena tidak hanya mengancam keselamatan, tetapi juga menjadi penghalang utama bagi tegaknya keadilan, perdamaian, dan demokrasi di Indonesia.
 
@@ -963,25 +977,23 @@ Acara senada diadakan pula di Gelanggang Olah Raga Saparua, Bandung, pada Sabtu 
 
 Tidak hanya di lingkup nasional rasa keprihatinan membahana. Masyarakat luar negeri yang sangat sensitif terhadap isu hak asasi manusia, turut terkesima atas perbuatan keji di alam merdeka ini. Mereka lantas menggemakan suara.
 
-Seperti yang dilakukan Huaren (baca: hua-den) — sebuah lembaga swadaya masyarakat yang menjembatani orang-orang Tionghoa perantauan di seluruh dunia. Sebagai ungkapan simpati sekaligus menuntut persamaan hak asasi bagi kaum Tionghoa Indonesia, Huaren melancarkan kampanye pita kuning (Yellow Ribbon Campaign).
+Seperti yang dilakukan Huaren (baca: hua-den)—sebuah lembaga swadaya masyarakat yang menjembatani orang-orang Tionghoa perantauan di seluruh dunia. Sebagai ungkapan simpati sekaligus menuntut persamaan hak asasi bagi kaum Tionghoa Indonesia, Huaren melancarkan kampanye pita kuning (Yellow Ribbon Campaign).
 
-Entah apa maksud sebenarnya dari pemilihan warna kuning sebagai tanda simpati bagi etnik Tionghoa ini. Yang jelas, pasti bukan berarti Golkar. Warna kuning dalam masyarakat Tionghoa menjadi simbol keagungan. Raja-raja Tiongkok zaman dahulu memilih warna ini sebagai warna baju kebesarannya. Kuning juga mengingatkan pada sungai yang mengaliri daratan Republik Rakyat Cina, Yang Tze.
+Entah apa maksud sebenarnya dari pemilihan warna kuning sebagai tanda simpati bagi etnik Tionghoa ini. Yang jelas, pasti bukan berarti Golkar. Warna kuning dalam masyarakat Tionghoa menjadi simbol keagungan. Raja-Raja Tiongkok zaman dahulu memilih warna ini sebagai warna baju kebesarannya. Kuning juga mengingatkan pada sungai yang mengaliri daratan Republik Rakyat Cina, Yang Tze.
 
 Selain kampanye pita kuning, Huaren aktif mengkampanyekan masalah yang tengah dihadapi etnik Tionghoa Indonesia ini di forum-forum internasional, terutama Amerika Serikat, tempat di mana organisasi non-profit ini berpusat.
 
-Aksi protes juga dilakukan di berbagai Konsulat Jenderal Republik Indonesia (Konjen-RI) di mancanegara. Antara lain di Hong Kong, Taipeh (Taiwan), dan sejumlah negara bagian di Amerika
-
-Serikat.
+Aksi protes juga dilakukan di berbagai Konsulat Jenderal Republik Indonesia (Konjen-RI) di mancanegara. Antara lain di Hong Kong, Taipeh (Taiwan), dan sejumlah negara bagian di Amerika Serikat.
 
 ## HONG KONG
 
 RIBUAN WARGANYA MEMADATI PUSAT KEBUDAYAAN di Distrik Tsim Sha Tsui, akhir Juli kemarin. Mereka menggelar doa bersama bagi para korban pemerkosaan massal di Jakarta.
 
-Penyalaan lilin simpati dan doa juga diselenggarakan di Victoria Park. Acara yang dimotori Partai Demokratik Hongkong (PDH) ini ditindaklanjuti dengan rentetan unjuk rasa di depan Konsulat Jenderal Republik Indonesia (KonjenRI) di sana.
+Penyalaan lilin simpati dan doa juga diselenggarakan di Victoria Park. Acara yang dimotori Partai Demokratik Hongkong (PDH) ini ditindaklanjuti dengan rentetan unjuk rasa di depan Konsulat Jenderal Republik Indonesia (Konjen-RI) di sana.
 
-Aksi protes itu mulai marak selang beberapa hari setelah kerusuhan. Mereka mendesak agar pemerintah RI melindungi warga etnik Tionghoa. "Kami sekerasnya menuntut pemerintah Indonesia untuk menghargai hak asasi," demikian bunyi sebuah spanduk yang digelar para pengunjuk rasa.
+Aksi protes itu mulai marak selang beberapa hari setelah kerusuhan. Mereka mendesak agar pemerintah RI melindungi warga etnik Tionghoa. “Kami sekerasnya menuntut pemerintah Indonesia untuk menghargai hak asasi,” demikian bunyi sebuah spanduk yang digelar para pengunjuk rasa.
 
-"Warga Tionghoa Indonesia masih dilanda kecemasan akan kemungkinan terjadinya aksi kerusuhan kembali. Bukan hanya soal bekerja, hidup pun mereka tak tenang," tandas mereka penuh semangat.
+“Warga Tionghoa Indonesia masih dilanda kecemasan akan kemungkinan terjadinya aksi kerusuhan kembali. Bukan hanya soal bekerja, hidup pun mereka tak tenang,” tandas mereka penuh semangat.
 
 ## TAIPEI
 
@@ -989,13 +1001,11 @@ SEBAGAI PROTES ATAS PERKOSAAN MASSAL terhadap perempuan etnik Tionghoa Indonesia
 
 Mereka membawa berbagai spanduk, dan melemparkan uang kertas ke udara sebagai tanda duka cita. Para pengunjuk rasa meminta pula, agar Indonesia menghukum para pemerkosa, dan memberi kompensasi kepada korban.
 
-Aksi protes yang diorganisir oleh Partai Baru dan Asosiasi Warga Tionghoa Perantauan Yang Pulang Kampung di
+Aksi protes yang diorganisir oleh Partai Baru dan Asosiasi Warga Tionghoa Perantauan Yang Pulang Kampung di Indonesia, meminta pemerintah Indonesia mengubah konstitusinya, untuk menjamin perlakuan yang sama kepada pribumi dan imigran. “Hanya dengan cara itu, delapan juta etnik Tionghoa bisa hidup tanpa rasa takut diperlakukan secara diskriminatif,” ujar mereka.
 
-Indonesia, meminta pemerintah Indonesia mengubah konstitusinya, untuk menjamin perlakuan yang sama kepada pribumi dan imigran. "Hanya dengan cara itu, delapan juta etnik Tionghoa bisa hidup tanpa rasa takut diperlakukan secara diskriminatif," ujar mereka.
+Bukan di Taipei saja warga Taiwan protes, tapi mereka juga datang ke Jakarta—diwakili delegasi Taipeh Women’s Rescue Foundation. Mereka menemui Komnas HAM pada awal Agustus lalu.
 
-Bukan di Taipei saja warga Taiwan protes, tapi mereka juga datang ke Jakarta — diwakili delegasi Taipeh Women's Rescue Foundation. Mereka menemui Komnas HAM pada awal Agustus lalu.
-
-Para anggota misi tersebut meminta pemerintah Indonesia mengambil tindakan serius.' "Penganiayaan dan pemerkosaan terhadap perempuan etnik Tionghoa tidak dapat ditolerir dan harus dikutuk," ujar Profesor Wong Muo, pemimpin delegasi. "Perlindungan yang sangat mereka butuhkan telah diabaikan," tambahnya,
+Para anggota misi tersebut meminta pemerintah Indonesia mengambil tindakan serius.’ “Penganiayaan dan pemerkosaan terhadap perempuan etnik Tionghoa tidak dapat ditolerir dan harus dikutuk,” ujar Profesor Wong Muo, pemimpin delegasi. “Perlindungan yang sangat mereka butuhkan telah diabaikan,” tambahnya.
 
 ## AMERIKA SERIKAT
 
@@ -1005,7 +1015,7 @@ Rombongan aktivis HAM dari Indonesia ini membawa misi kemanusiaan, untuk membela
 
 Mereka menekankan, amuk massa itu sebenarnya bukan disebabkan faktor agama, etnik, atau primordial lain. Temuan-temuan Tim Relawan memperlihatkan, adanya kelompok terorganisir di belakang kerusuhan tersebut.
 
-"Saya pikir, kehadiran kawan-kawan ini cukup positif. Jangan diartikan kalau mereka berbicara terus terang dan apa adanya, itu tidak nasionalis," kata Christianto Wibisono, yang kebetulan juga berada di Negeri Paman Sam sebagai pembicara sebuah seminar.
+“Saya pikir, kehadiran kawan-kawan ini cukup positif. Jangan diartikan kalau mereka berbicara terus terang dan apa adanya, itu tidak nasionalis,” kata Christianto Wibisono, yang kebetulan juga berada di Negeri Paman Sam sebagai pembicara sebuah seminar.
 
 Di negeri ini aksi protes terus marak. Pada awal Agustus ini di Konjen-RI di Washington D.C., Chicago, Los Angeles, San Francisco, dan beberapa kota lain.
 
@@ -1017,48 +1027,39 @@ Semasa rezim Orde Baru berkuasa, Komisi HAM PBB mengaku menemui kesulitan menjan
 
 Jika perhatian dunia internasional begitu menggebu-gebu terhadap Indonesia, mengapa kita sendiri yang menjadi bagian dari negara ini, tidak mulai berkaca, sudahkah kita menjunjung hak asasi itu?
 
-dari berbagai sumber
+<p style="text-align: right; margin-top: 2em; font-size: 0.75em;"><em>dari berbagai sumber</em></p>
 
 ---
 
 # Kekerasan dan Teror Masih Berlangsung
 
-*Ikut-Ikutan atau Karena Para Pelaku Masih Berkeliaran?*
+***Ikut-Ikutan atau Karena Para Pelaku Masih Berkeliaran?***
 
-
-TIGA BULAN BERLALU SEJAK AMUK MASSA mencoreng wajah IbuKota. Kehidupan "seolah" telah berjalannormal. Namun, di tengah kesibukan rutinitas seharihari, di lubuk kebanyakan warga masih terselip rasa was-was.
+TIGA BULAN BERLALU SEJAK AMUK MASSA mencoreng wajah Ibu Kota. Kehidupan “seolah” telah berjalan normal. Namun, di tengah kesibukan rutinitas sehari-hari, di lubuk kebanyakan warga masih terselip rasa was-was.
 
 Betapa tidak. Di sana-sini teror tetap leluasa bertebaran, dan tindak kriminal bahkan pemerkosaan masih terjadi. Romo Sandyawan, Sekretaris I Tim Relawan untuk Kemanusiaan, mencatat, tanggal 20 Juni dan 2 Juli masih terjadi pemerkosaan terhadap dua perempuan etnik Tionghoa, dengan modus operandi yang sama seperti pemerkosaan massal Mei lalu.
 
 Sebuah sumber lain mengisahkan, dua karyawati di bilangan Sudirman, Jakarta, dibawa lari sopir taksi, saat mereka makan siang. Lisa (bukan nama sebenarnya) menuturkan pula pengalamannya, ketika pulang kerja sore hari naik taksi dari kawasan Jakarta Utara.
 
-Dari bagasi kendaraan umum itu, tiba-tiba muncul seorang priadengan belati di tangan Lisa dan adik perempuannya dipaksa mengambilsejumlah uang tabungan mereka lewat mesin
-
-ATM. Syukurlah, Lisa dan adiknya luput dari keganasan kedua pelaku berkat kuasa Tuhan.
+Dari bagasi kendaraan umum itu, tiba-tiba muncul seorang pria dengan belati di tangan. Lisa dan adik perempuannya dipaksa mengambil sejumlah uang tabungan mereka lewat mesin ATM. Syukurlah, Lisa dan adiknya luput dari keganasan kedua pelaku berkat kuasa Tuhan.
 
 Ikut-ikutan karena merasa ketika kerusuhan Mei lalu belum dapat bagian, ataukah lantaran para pelaku penjarahan dan pemerkosaan masih bebas berkeliaran di antara masyarakat?
 
-Hari baru pukul 19 malam. Sebuah bus kota dikuasai segerombolan pelajar. Mereka habis tawuran. Tapi, dengan enaknya mereka melucuti harta semua penumpang etnik Tionghoa, dan
-
-bekali wejangan kepada para anak gadisnya, terutama, agar jangan keluar malam hari, hindari jalan-jalan sepi dan gelap serta kendaraan umum dengan segelintir penumpang.
-
-Bukan hanya warga Jakarta yang dicekam ketakutan. Warga kota Bandung, Medan, Palembang, Solo, dan Surabaya, yang pernah disulut kerusuhan sejenis juga ketar-ketir.
-
-Bahkan, beberapa sumber yang dihubungi di daerah-daerah tanpa kerusuhan pun, mengaku was-was. Mereka ce-
-
-tanpa segan — padahal mereka anak sekolahan — mereka melakukan perundungan seksual terhadap perempuan dalam bus itu.
-
-## Teror Untuk Masyarakat Luas
-
-"Kalau begitu caranya, saya aja yang orang asli sini juga takut," cetus seorang perempuan menanggapi kisah-kisah ngeri bak dalam cerita kriminal rekaan di atas.
-
-Tak heran jika para orang tua mem-
-
-mas, jangan sampai peristiwa tragis seperti itu terjadi di daerahnya.
+Hari baru pukul 19 malam. Sebuah bus kota dikuasai segerombolan pelajar. Mereka habis tawuran. Tapi, dengan enaknya mereka melucuti harta semua penumpang etnik Tionghoa, dan tanpa segan—padahal mereka anak sekolahan—mereka melakukan perundungan seksual terhadap perempuan dalam bus itu.
 
 ![](epub_assets/p60_0.jpg)
 
-"Dengan amuk massa tersebut, hendak diciptakan teror terhadap masyarakat luas. Untuk membuat teror, kan, harus ada korban. Dan yang dikorbankan adalah etnik Tionghoa, terutama kaum perempuannya," Ita Nadia, Koordinator Tim Relawan untuk Kemanusiaan Divisi Kekerasan terhadap Perempuan, menyimpulkan.
+## Teror Untuk Masyarakat Luas
+
+“Kalau begitu caranya, saya aja yang orang asli sini juga takut,” cetus seorang perempuan menanggapi kisah-kisah ngeri bak dalam cerita kriminal rekaan di atas.
+
+Tak heran jika para orang tua membekali wejangan kepada para anak gadisnya, terutama, agar jangan keluar malam hari, hindari jalan-jalan sepi dan gelap serta kendaraan umum dengan segelintir penumpang.
+
+Bukan hanya warga Jakarta yang dicekam ketakutan. Warga kota Bandung, Medan, Palembang, Solo, dan Surabaya, yang pernah disulut kerusuhan sejenis juga ketar-ketir.
+
+Bahkan, beberapa sumber yang dihubungi di daerah-daerah tanpa kerusuhan pun, mengaku was-was. Mereka cemas, jangan sampai peristiwa tragis seperti itu terjadi di daerahnya.
+
+“Dengan amuk massa tersebut, hendak diciptakan teror terhadap masyarakat luas. Untuk membuat teror, kan, harus ada korban. Dan yang dikorbankan adalah etnik Tionghoa, terutama kaum perempuannya,” Ita Nadia, Koordinator Tim Relawan untuk Kemanusiaan Divisi Kekerasan terhadap Perempuan, menyimpulkan.
 
 ## Foto-foto dan Kaset Video
 
@@ -1066,9 +1067,9 @@ SELAIN TEROR BERUPA PENCULIKAN, PEMERKOSAAN, dan pengambilan harta benda secara 
 
 Seorang sumber, mengaku dibisiki pedagang di sebuah pusat perdagangan. Katanya, ada barang bagus. Ia lalu diajak ke sebuah tempat, dan diputarkan film cuplikan-cuplikan adegan pemerkosaan. Si pedagang menawari kaset rekaman itu seharga Rp 175.000,-
 
-Sementara itu, di Internet beredar foto-foto — yang katanya — hasil jepretan saat pemerkosaan massal 13-14 Mei lalu. Betulkah?
+Sementara itu, di Internet beredar foto-foto—yang katanya—hasil jepretan saat pemerkosaan massal 13-14 Mei lalu. Betulkah?
 
-"Kami masih melakukan verifikasi mengenai kebenarannya," ujar Ita. Tapi, Romo Sandyawan cepat tanggap. Begitu tercium gejala teror berupa penyebaran foto-foto dan kaset video itu, sekitar akhir Juni lalu, ia sudah memberi peringatan.
+“Kami masih melakukan verifikasi mengenai kebenarannya,” ujar Ita. Tapi, Romo Sandyawan cepat tanggap. Begitu tercium gejala teror berupa penyebaran foto-foto dan kaset video itu, sekitar akhir Juni lalu, ia sudah memberi peringatan.
 
 Menurutnya, penyebaran foto-foto itu juga merupakan bagian dari teror. Padahal, foto-foto tersebut sebenarnya menggambarkan penyiksaan yang dialami perempuan aktivis di Timor Timur. Lama sebelum terjadi amuk massa dan pemerkosaan massal Mei silam, foto-foto itu sudah terpampang di beberapa situs di Internet yang mengulas Timor Timur.
 
@@ -1094,41 +1095,37 @@ Beban yang harus disandang warga masyarakat akibat krisis ekonomi sudah cukup be
 
 Kiranya sudah saatnya para perekayasa teror menghentikan aktivitasnya. Atau, memang bangsa ini tengah sengaja diarahkan ke ambang kehancuran?
 
-dari berbagai sumber
+<p style="text-align: right; margin-top: 2em; font-size: 0.75em;"><em>dari berbagai sumber</em></p>
 
 ---
 
 # Bongkar dan Adili Segera!
 
+KEDAMAIAN HIDUP BERSAMA MENDADAK TERUSIK, begitu terjadi kerusuhan yang dibarengi perkosaan etnik Tionghoa, pada pertengahan Mei lalu. Dalam waktu amat singkat, bangsa ini bertatap muka dengan kematian rasa berbangsa, kebinasaan rasa persaudaraan, penumpulan hati nurani, kelumpuhan rasa aman bertetangga, dan kehabisan kepercayaan terhadap aparat keamanan yang seyogianya melindungi seluruh rakyat tanpa kecuali.
 
-KEDAMAIAN HIDUP BERSAMA MENDADAK TER usik, begitu terjadi kerusuhan yang dibarengi perkosaan etnik Tionghoa, pada pertengahan Mei lalu. Dalam waktu amat sing kat, bangsa ini bertatap muka dengan kematian rasa berbangsa, kebinasaan rasa per saudaraan, penumpulan hati nurani, kelumpuhan rasa aman bertetangga, dan kehabisan kepercayaan terhadap aparat keamanan yang seyogianya melindungi seluruh rakyat tanpa kecuali.
-
-Meski sudah tiga bulan berlalu, hingga laporan ini ditulis, masih belum tampak titik terang penyelesaian masalah yang menyangkut hak asasi perempuan ini
+Meski sudah tiga bulan berlalu, hingga laporan ini ditulis, masih belum tampak titik terang penyelesaian masalah yang menyangkut hak asasi perempuan ini.
 
 Malah, ada yang cenderung mempertanyakan kebenaran terjadinya pemerkosaan, lantaran belum satu pun laporan diterima aparat keamanan. Sementara, teror mengalir deras, dan pemerkosaan dengan modus operandi yang sama masih berlangsung sampai kini (awal Agustus 1998).
 
-Mempeti-eskan dan melupakan begitu saja kejadian tragis ini, sama artinya dengan mengabsahkan tindakan brutal tak berperikemanusiaan itu. Sama juga maknanya dengan membenarkan apa yang tidak baik sebagai yang baik. Kalau sudah demi kian, jangan salahkan bila ada orang yang sudah tidak dapat lagi membedakan antara yang biadab dan beradab.
+Mempeti-eskan dan melupakan begitu saja kejadian tragis ini, sama artinya dengan mengabsahkan tindakan brutal tak berperikemanusiaan itu. Sama juga maknanya dengan membenarkan apa yang tidak baik sebagai yang baik. Kalau sudah demikian, jangan salahkan bila ada orang yang sudah tidak dapat lagi membedakan antara yang biadab dan beradab.
 
 Dan jika pelecehan serta pemerkosaan sudah menjadi hal yang biasa di masyarakat, celana dalam antipemerkosaan yang kini ramai diperdagangkan pun, bukan solusi pemecahan masalah asasi ini.
 
-Tiba waktunya sekarangkitamemperbaiki kerusakan total hidup bersama, yang diakibatkan oleh kerusuhan dan pemerkosaan Mei silam. Maka,2 hal paling penting dilakukan — di samping memulihkan kondisi mental dan fisik para korban — adalah MEMBONGKAR DAN MENGADILI SEGERA, jaringan perencana dan pelakunya!
+Tiba waktunya sekarang kita memperbaiki kerusakan total hidup bersama, yang diakibatkan oleh kerusuhan dan pemerkosaan Mei silam. Maka, 2 hal paling penting dilakukan—di samping memulihkan kondisi mental dan fisik para korban—adalah MEMBONGKAR DAN MENGADILI SEGERA, jaringan perencana dan pelakunya!
 
 ---
 
 # Pertanggungjawaban Hati Nurani
 
-
-SETELAH BERTEMU DENGAN SEBAGIAN DARI korban dan keluarga korban, dan setelah mencermati siaran media massa, serta laporan-laporan yang disusun oleh berbagai LSM, kami kaum pemuka agama dan masyarakat, sampai pada -kesimpulan, bahwa kami perlu menyatakan secara tegas mengenai pokok yang amat memprihatinkan ini, yaitu bahwa
+SETELAH BERTEMU DENGAN SEBAGIAN DARI korban dan keluarga korban, dan setelah mencermati siaran media massa, serta laporan-laporan yang disusun oleh berbagai LSM, kami kaum pemuka agama dan masyarakat, sampai pada kesimpulan, bahwa kami perlu menyatakan secara tegas mengenai pokok yang amat memprihatinkan ini, yaitu bahwa
 
 ## 1. DIMANFAATKANNYA PERBEDAAN SUKU DAN SOSIAL EKONOMI DI DALAM MASYARAKAT SEBAGAI SARANA UNTUK MEMECAH BELAH:
 
 Memang di dalam sejarah bangsa Indonesia, kuno maupun modern, telah sering terjadi konflik rasial. Peristiwa yang terjadi pada tanggal 13-14 Mei 1998 yang lalu, sekali lagi merupakan konflik yang sangat keji dan biadab. Peristiwa tersebut jelas sekali merupakan pelanggaran hak-hak asasi manusia.
 
-Masyarakat keturunan Tionghoa dihadapkan dengan masyarakat yang lain, dan selanjutnya mereka diadu domba. Di satu pihak, dengan alasan bahwa mereka adalah Tionghoa, maka harta benda mereka dijarah, tempat usaha mereka dirusak, tubuh mereka dianiaya, nyawa mereka dihilangkan, dan seakan-akan ingin lebih memuaskan diri lagi —kaum perempuan
+Masyarakat keturunan Tionghoa dihadapkan dengan masyarakat yang lain, dan selanjutnya mereka diadu domba. Di satu pihak, dengan alasan bahwa mereka adalah Tionghoa, maka harta benda mereka dijarah, tempat usaha mereka dirusak, tubuh mereka dianiaya, nyawa mereka dihilangkan, dan seakan-akan ingin lebih memuaskan diri lagi—kaum perempuan dari kalangan mereka dilecehkan, bahkan diperkosa. Karena rasa malu dan putus asa, beberapa orang dari korban mengakhiri hidupnya sendiri.
 
-dari kalangan mereka dilecehkan, bahkan diperkosa. Karena rasa malu dan putus asa, beberapa orang dari korban mengakhiri hidupnya sendiri.
-
-. Di pihak lain, rakyat jelata yang sebagian hidup dalam kemiskinan, kehilangan pekerjaan, dan terpinggirkan dari pusat-pusat pengambilan keputusan, dipancing sedemikian sehingga sampai ribuan mati terpanggang. Yang lebih mengerikan adalah bahwa semua itu dilakukan dengan cara-cara yang terorganisir dan sistematis.
+Di pihak lain, rakyat jelata yang sebagian hidup dalam kemiskinan, kehilangan pekerjaan, dan terpinggirkan dari pusat-pusat pengambilan keputusan, dipancing sedemikian sehingga sampai ribuan mati terpanggang. Yang lebih mengerikan adalah bahwa semua itu dilakukan dengan cara-cara yang terorganisir dan sistematis.
 
 ## 2. PENGANIAYAAN YANG DIDASARKAN PADA KENYATAAN YANG ADA DI LUAR PILIHAN SESEORANG:
 
@@ -1136,13 +1133,11 @@ Dilahirkan sebagai anggota dari salah satu suku bangsa bukanlah pilihan orang ya
 
 Perbedaan yang muncul karena kekhasan itu adalah suci dan dimaksudkan agar manusia saling bekerja sama, saling melengkapi, dan saling memperkaya diri, bukan untuk dipertentangkan satu sama lain, sehingga menjadi permusuhan.
 
-Demikian juga menjadi orang Tionghoa. Di satu pihak, perlakuan buruk atas
-
-asar perbedaan ras, khususnya peng ayaan yang tertuju kepada mereka akhir-akhir ini, adalah tindakan yang merendahkan martabat manusia dan melawkeadilan.
+Demikian juga menjadi orang Tionghoa. Di satu pihak, perlakuan buruk atas dasar perbedaan ras, khususnya pengniayaan yang tertuju kepada mereka akhir-akhir ini, adalah tindakan yang merendahkan martabat manusia dan melawan keadilan.
 
 Kekerasan yang dilakukan terhadap mereka yang dilahirkan dan dibesarkan di Indonesia, sebagai satu-satunya negeri dan tanah air mereka, telah menodai bangsa Indonesia sendiri.
 
-Di lain pihak, kemiskinan rakyat bukanlah kesempatan untuk menjerumuskan nereka ke dalam sikap dan tindakan yang kejam, biadab, dan tak berperikemanusiaan, melainkan merupakan panggilan untuk mengajak mereka memperkuat diri agar dapat menciptakan hidup yang berkualitas.
+Di lain pihak, kemiskinan rakyat bukanlah kesempatan untuk menjerumuskan mereka ke dalam sikap dan tindakan yang kejam, biadab, dan tak berperikemanusiaan, melainkan merupakan panggilan untuk mengajak mereka memperkuat diri agar dapat menciptakan hidup yang berkualitas.
 
 ## 3. PERBEDAAN DIPERTENTANGKAN:
 
@@ -1154,11 +1149,9 @@ Kami tidak setuju, bahwa perbedaan yang ada dijadikan sumber pertentangan yang m
 
 ## 4. TIADANYA PERLINDUNGAN HUKUM:
 
-Di dalam sebuah negara hukum, harus ada jaminan keamanan yang nyata, terutama keamanan fisik, yang diwujudkan di dalam bentuk perundang-undangan yang diberlakukan dengan sanksi lewat sistem peradilan, serta wajib dilaksanakan oleh segenap aparat keamanan, Tanpa hal
+Di dalam sebuah negara hukum, harus ada jaminan keamanan yang nyata, terutama keamanan fisik, yang diwujudkan di dalam bentuk perundang-undangan yang diberlakukan dengan sanksi lewat sistem peradilan, serta wajib dilaksanakan oleh segenap aparat keamanan, Tanpa hal ini, kehidupan sosial, ekonomi, dan budaya akan mengalami kemerosotan.
 
-ini, kehidupan sosial, ekonomi, dan budaya akan mengalami kemerosotan.
-
-SEBAB ITU, KAMI INGIN MENGUNGKAP- : rasa simpati kami sedalam-dalamnya kepada mereka yang menjadi korban kekerasan yang terjadi sekitar dua hari itu, kepada ribuan orang yang kehilangan nyawa, juga kepada saudara-saudara warga keturunan Tionghoa yang dijadikan sasaran kebencian. Semoga keluarga serta handai taulan yang ditinggalkan mendapat kekuatan lahir-batin untuk menanggung derita yang menimpa.
+OLEH SEBAB ITU, KAMI INGIN MENGUNGKAPKAN rasa simpati kami sedalam-dalamnya kepada mereka yang menjadi korban kekerasan yang terjadi sekitar dua hari itu, kepada ribuan orang yang kehilangan nyawa, juga kepada saudara-saudara warga keturunan Tionghoa yang dijadikan sasaran kebencian. Semoga keluarga serta handai taulan yang ditinggalkan mendapat kekuatan lahir-batin untuk menanggung derita yang menimpa.
 
 Selain itu, kami menyerukan kepada Pemerintah dan pihak-pihak yang berwajib, serta siapa saja yang tergerak untuk memperjuangkan keadilan, agar segera mengakhiri dengan sekuat tenaga dan berusaha agar tidak terjadi lagi, segala macam bentuk pemecahbelahan kehidupan bermasyarakat, dengan mempertentangkan perbedaan-perbedaan yang ada.
 
@@ -1166,4 +1159,4 @@ Sekarang kejadian itu tertuju pada warga keturunan Tionghoa; jika tidak diberant
 
 Akhirnya kami mengajak semua orang yang ingin dan mau menjunjung tinggi nilai kemanusiaan, untuk berusaha dan bekerja sama melawan segala sesuatu yang memungkinkan tumbuhnya pengadudombaan di negeri ini. Sehingga, di tanah air Indonesia ini dapat terbangun dan tercipta sebuah bangsa beradab yang menghargai harkat dan martabat manusia.
 
-Jakarta, 17 Juni 1998 Masyarakat Dialog Antar Agama
+<p style="text-align: right; margin-top: 2em;"><b>Jakarta, 17 Juni 1998<br/>Masyarakat Dialog Antar Agama</b></p>
