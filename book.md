@@ -1,14 +1,6 @@
-# Halaman Judul
-
-**PUNCAK KEBIADABAN BANGSA**
-
-Perkosaan Etnik Tionghoa 13 - 14 Mei 1998
 
 
-
-Tim Pemburu Fakta
-
-
+# PUNCAK KEBIADABAN BANGSA Perkosaan Etnik Tionghoa 13 - 14 Mei 1998
 
 Tim Pemburu Fakta mengolah isi buku mungil ini dari berbagai sumber. Terima kasih kepada:
 

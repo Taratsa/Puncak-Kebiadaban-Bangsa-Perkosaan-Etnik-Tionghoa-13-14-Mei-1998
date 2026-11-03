@@ -506,5 +506,36 @@
     ]
   },
   "source_url": "https://langka.logosid.app/book/476",
-  "source": "book.md"
+  "source": "book.md",
+  "finish": {
+    "publisher": "Yayasan Karyawan Matra",
+    "subjects": [
+      "Sejarah",
+      "Hak Asasi Manusia"
+    ],
+    "toc_title": "Daftar Isi",
+    "source_label": "Pustaka Langka (langka.logosid.app)",
+    "rights_lines": [
+      "Diterbitkan oleh Yayasan Karyawan Matra.",
+      "Teks dan foto © pemegang hak masing-masing; edisi digital ini tidak mengklaim hak cipta baru atas isinya."
+    ],
+    "credits": [
+      [
+        "Koreksi manual",
+        "MasasilaM"
+      ]
+    ],
+    "contributors": [
+      [
+        "edt",
+        "MasasilaM"
+      ]
+    ],
+    "attribution_html": "Tata letak, gaya, dan kolofon mengikuti edisi <a href=\"https://masasilam.com\"><em>MasasilaM</em></a> (<em>Menyambut Kongres Kebudayaan</em>).",
+    "license": {
+      "name": "CC BY 4.0",
+      "full_name": "Creative Commons Atribusi 4.0 Internasional",
+      "url": "https://creativecommons.org/licenses/by/4.0/deed.id"
+    }
+  }
 }

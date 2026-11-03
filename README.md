@@ -26,3 +26,11 @@ Config (chapters, typo_fixes, keep_joins, verify rules) lives in book.json.
 
 - The source PDF (137 MB) and ocr/ are not in the repo: the PDF exceeds GitHub's 100 MB limit, and ocr/ can be regenerated from it.
 - Spell checking: tools/ocrcheck (symspell_rs + FrequencyWords id_full.txt 2018). Review flags by hand; names and formal terms are flagged falsely.
+
+## Edition
+
+The EPUB is built in the MasasilaM edition style (book.json "finish"): title page, colophon,
+nested TOC, poem and figure markup. Layout and stylesheet follow MasasilaM's
+*Menyambut Kongres Kebudayaan* (https://masasilam.com, CC0 1.0). Manual corrections to the
+chapters "Apa Kata Mereka?" through "Pertanggungjawaban Hati Nurani" are by MasasilaM.
+Validate with `epubcheck`.
