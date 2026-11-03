@@ -6,16 +6,18 @@ Source: https://langka.logosid.app/book/476
 
 ## Build
 
-Do not run any other build script. The pipeline is the only supported path.
+book.md is the hand-edited source (book.json "source": "book.md"). Edit book.md directly; do not regenerate it. The build only runs pandoc on book.md and then verifies.
 
     cd /Users/sf/Documents/workspaces/pdf-to-epub-turboocr
-    python3 pipeline.py "<path to this folder>" --steps images,build,verify
+    python3 pipeline.py "<path to this folder>" --steps build,verify
+
+Do not run the ocr or images steps for this book: book.md is not regenerated from the OCR pages in this mode.
 
 Config (chapters, typo_fixes, keep_joins, verify rules) lives in book.json.
 
 ## Outputs
 
-- book.md: cleaned Markdown (generated, do not hand-edit; put fixes in book.json)
+- book.md: cleaned Markdown, hand-edited source (edit directly)
 - Puncak Kebiadaban Bangsa - Tim Pemburu Fakta.epub: final EPUB
 - verify.json: PASS/FAIL checks
 - review.txt: hyphen-join report (23 unjoined breaks still open)
