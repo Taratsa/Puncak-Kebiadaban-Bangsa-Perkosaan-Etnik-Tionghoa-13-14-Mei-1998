@@ -1,0 +1,50 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .ink      { fill: none; stroke: #1A1A1A; }
+    .ink-fill { fill: #1A1A1A; }
+    .red      { fill: #C41E3A; }
+    .red-line { fill: none; stroke: #C41E3A; }
+  </style>
+
+  <g transform="translate(400, 110)">
+    <path class="ink" d="M -40 -18 Q -40 -30,-22 -34 L -5 -36 L -5 30 L -22 27 Q -40 23,-40 10 Z"
+          stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+    <path class="ink" d="M 40 -18 Q 40 -30,22 -34 L 5 -36 L 5 30 L 22 27 Q 40 23,40 10 Z"
+          stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+    <line class="ink" x1="0" y1="-36" x2="0" y2="30" stroke-width="2.5" stroke-linecap="round"/>
+
+    <g opacity="0.35">
+      <line class="red-line" x1="-30" y1="-20" x2="-10" y2="-22" stroke-width="0.8"/>
+      <line class="red-line" x1="-30" y1="-14" x2="-10" y2="-16" stroke-width="0.8"/>
+      <line class="red-line" x1="-30" y1="-8"  x2="-10" y2="-10" stroke-width="0.8"/>
+    </g>
+    <g opacity="0.35">
+      <line class="red-line" x1="30" y1="-20" x2="10" y2="-22" stroke-width="0.8"/>
+      <line class="red-line" x1="30" y1="-14" x2="10" y2="-16" stroke-width="0.8"/>
+      <line class="red-line" x1="30" y1="-8"  x2="10" y2="-10" stroke-width="0.8"/>
+    </g>
+
+    <g transform="translate(0, -60)">
+      <path class="red" d="M 0 -12 L 3.6 -3.6 L 12 -3.6 L 5.4 1.8 L 8.4 10.8 L 0 4.8 L -8.4 10.8 L -5.4 1.8 L -12 -3.6 L -3.6 -3.6 Z" opacity="0.2"/>
+      <path class="red" d="M 0 -10 L 3 -3 L 10 -3 L 4.5 1.5 L 7 9 L 0 4 L -7 9 L -4.5 1.5 L -10 -3 L -3 -3 Z"
+            stroke="#B71C1C" stroke-width="0.8"/>
+    </g>
+
+    <g opacity="0.5">
+      <line class="red-line" x1="-50" y1="-40" x2="-65" y2="-55" stroke-width="1.5" stroke-linecap="round"/>
+      <line class="red-line" x1="50"  y1="-40" x2="65"  y2="-55" stroke-width="1.5" stroke-linecap="round"/>
+      <line class="red-line" x1="-35" y1="-50" x2="-45" y2="-68" stroke-width="1.2" stroke-linecap="round"/>
+      <line class="red-line" x1="35"  y1="-50" x2="45"  y2="-68" stroke-width="1.2" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <g transform="translate(400, 210)">
+    <text x="0" y="0" class="ink-fill"
+          font-family="'Futura','Century Gothic','Helvetica Neue',sans-serif"
+          font-size="48" font-weight="700" letter-spacing="14" text-anchor="middle">MASASILAM</text>
+  </g>
+
+  <line x1="270" y1="228" x2="530" y2="228" stroke="#C41E3A" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="260" cy="228" r="2.5" fill="#C41E3A"/>
+  <circle cx="540" cy="228" r="2.5" fill="#C41E3A"/>
+</svg>

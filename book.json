@@ -527,16 +527,27 @@
     ],
     "contributors": [
       [
+        "trc",
+        "Taratsa"
+      ],
+      [
+        "edt",
+        "Taratsa"
+      ],
+      [
         "edt",
         "MasasilaM"
       ]
     ],
     "attribution_html": "Tata letak, gaya, dan kolofon mengikuti edisi <a href=\"https://masasilam.com\"><em>MasasilaM</em></a> (<em>Menyambut Kongres Kebudayaan</em>).",
     "license": {
-      "name": "CC BY 4.0",
-      "full_name": "Creative Commons Atribusi 4.0 Internasional",
-      "url": "https://creativecommons.org/licenses/by/4.0/deed.id"
-    }
+      "name": "CC0 1.0",
+      "full_name": "CC0 1.0 Universal Public Domain Dedication",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.id",
+      "title": "Hak Cipta dan Lisensi"
+    },
+    "rights": "Karya asli: hak cipta pemegang hak masing-masing (status tidak diketahui). Kontribusi edisi digital: CC0 1.0."
   },
-  "image_format": "webp"
+  "image_format": "webp",
+  "cover_image": "epub_assets/cover.webp"
 }

@@ -1,0 +1,35 @@
+# EPUB metadata, hand-editable. Any key set here overrides the value generated from book.json.
+# Remove a key to fall back to the generated value. Rebuild with: pipeline.py <book> --steps build,verify
+# Keys: title, subtitle, creator, contributor, publisher, subject, description, rights, source, date,
+#       identifier, lang. Roles are MARC relators (aut, edt, trl, ill, trc, ...).
+
+# Pinned so readers keep reading position/annotations across rebuilds (a new random one is made
+# on every build otherwise). Do not change after publishing.
+identifier: "urn:uuid:44567b1a-2a72-44ec-a434-de5814a5ab03"
+# Publication date of this edition (YYYY-MM-DD); without it the build timestamp is used.
+date: 2026-11-03
+
+# OPF-only keys (injected after the build; pandoc has no field for them), as in the MasasilaM editions:
+#   first-publisher -> <meta property="schema:firstPublisher">  who first published the work
+#   first-published -> <meta property="schema:firstPublished">  year of first publication
+first-publisher: "Tim Pemburu Fakta"
+# first-published: ""
+# publisher must be ONE string (a YAML list makes pandoc write an empty <dc:publisher>); join several with ", ".
+
+title: "Puncak Kebiadaban Bangsa: Perkosaan Etnik Tionghoa 13-14 Mei 1998"
+lang: "id"
+publisher: "Taratsa, MasasilaM"
+rights: "Karya asli/digitalisasi: hak cipta pemegang hak masing-masing. Kontribusi edisi digital: CC0 1.0."
+source: "https://langka.logosid.app/book/476"
+creator:
+  - role: "aut"
+    text: "Tim Pemburu Fakta"
+contributor:
+  - role: "trc"
+    text: "Taratsa"
+  - role: "edt"
+    text: "Taratsa"
+  - role: "edt"
+    text: "MasasilaM"
+subject:
+  - "Sejarah"
