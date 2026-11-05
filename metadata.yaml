@@ -7,7 +7,7 @@
 # on every build otherwise). Do not change after publishing.
 identifier: "urn:uuid:44567b1a-2a72-44ec-a434-de5814a5ab03"
 # Publication date of this edition (YYYY-MM-DD); without it the build timestamp is used.
-date: 2026-11-03
+date: 2026-11-05
 
 # OPF-only keys (injected after the build; pandoc has no field for them), as in the MasasilaM editions:
 #   first-publisher -> <meta property="schema:firstPublisher">  who first published the work
@@ -19,7 +19,7 @@ first-publisher: "Tim Pemburu Fakta"
 title: "Puncak Kebiadaban Bangsa: Perkosaan Etnik Tionghoa 13-14 Mei 1998"
 lang: "id"
 publisher: "Taratsa, MasasilaM"
-rights: "Karya asli/digitalisasi: hak cipta pemegang hak masing-masing. Kontribusi edisi digital: CC0 1.0."
+rights: "CC BY-SA 4.0"
 source: "https://langka.logosid.app/book/476"
 creator:
   - role: "aut"

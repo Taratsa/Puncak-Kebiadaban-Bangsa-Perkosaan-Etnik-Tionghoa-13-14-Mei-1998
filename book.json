@@ -442,7 +442,7 @@
       "masing-masing",
       "mengalami kemerosotan",
       "Kajian Indonesia",
-      "MEMECAH BELAH",
+      "Memecah Belah",
       "sadarkan diri",
       "pemukiman-pemukiman",
       "berdarahnya rezim"
@@ -546,7 +546,14 @@
       "url": "https://creativecommons.org/publicdomain/zero/1.0/deed.id",
       "title": "Hak Cipta dan Lisensi"
     },
-    "rights": "Karya asli: hak cipta pemegang hak masing-masing (status tidak diketahui). Kontribusi edisi digital: CC0 1.0."
+    "rights": "CC BY-SA 4.0",
+    "title_lines": [
+      "Puncak Kebiadaban Bangsa:",
+      "Perkosaan Etnik Tionghoa",
+      "13-14 Mei 1998"
+    ],
+    "titlepage_toc": "Judul",
+    "toc_depth": 3
   },
   "image_format": "webp",
   "cover_image": "epub_assets/cover.webp"

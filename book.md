@@ -1,6 +1,6 @@
 
 
-# PUNCAK KEBIADABAN BANGSA Perkosaan Etnik Tionghoa 13 - 14 Mei 1998
+# PUNCAK KEBIADABAN BANGSA Perkosaan Etnik Tionghoa 13-14 Mei 1998 {.unlisted .hidden-heading}
 
 Tim Pemburu Fakta mengolah isi buku mungil ini dari berbagai sumber. Terima kasih kepada:
 
@@ -8,11 +8,11 @@ Tim Relawan untuk Kemanusiaan, Divisi Kekerasan terhadap Perempuan
 
 Badan Komunikasi Penghayatan Kesatuan Bangsa (Bakom PKB)
 
-Tempo Interaktif Majalah Matra
+*Tempo Interaktif* *Majalah Matra*
 
-Majalah D & R
+*Majalah D & R*
 
-Harian Suara Pembaruan Radio Netherland
+Harian *Suara Pembaruan* *Radio Netherland*
 
 Berita-Bhinneka Mailing List Solidaritas Nusa-Bangsa
 
@@ -22,7 +22,7 @@ dan semua pihak yang telah membantu dengan tulus, hingga buku ini dapat diterbit
 
 Salam hangat, Tim Pemburu Fakta
 
-FOTO-FOTO Repro Kompas, Jakarta Post, Panji Masyarakat, Media Indonesia, D&R
+FOTO-FOTO Repro *Kompas*, *Jakarta Post*, *Panji Masyarakat*, *Media Indonesia*, *D&R*
 
 Diterbitkan oleh Yayasan Karyawan Matra
 
@@ -40,9 +40,9 @@ Padahal, perempuan diciptakan Sang Pencipta dengan tujuan mulia. Dari dialah lah
 
 Dilandasi rasa hormat dan penghargaan kepada kaum perempuan, buku ini kami terbitkan Bukan untuk menoreh goresan lagi pada luka yang masih berdarah, namun lebih pada upaya pencarian keadilan.
 
-Mewakili mereka yang tertindas tanpa mampu membuka suara, kami intisarikan kejadian tragis memilukan, yang berlangsung di Jakarta — dengan jumlah korban terbanyak — dan di beberapa kota besar lain di Indonesia. Selamat membaca, dan memetik hikmahnya!
+Mewakili mereka yang tertindas tanpa mampu membuka suara, kami intisarikan kejadian tragis memilukan, yang berlangsung di Jakarta—dengan jumlah korban terbanyak—dan di beberapa kota besar lain di Indonesia. Selamat membaca, dan memetik hikmahnya!
 
-Perempuan diciptakan dari rusuk Adam bukan dari kepalanya untuk menjadi atasannya bukan pula dari kakinya untuk dijadikan alasnya melainkan dari sisinya untuk menjadi setara dengannya dekat pada lengannya untuk dilindunginya dan dekat dengan hatinya untuk dicintainya — Dale S. Hardley
+Perempuan diciptakan dari rusuk Adam bukan dari kepalanya untuk menjadi atasannya bukan pula dari kakinya untuk dijadikan alasnya melainkan dari sisinya untuk menjadi setara dengannya dekat pada lengannya untuk dilindunginya dan dekat dengan hatinya untuk dicintainya—Dale S. Hardley
 
 ---
 
@@ -56,7 +56,7 @@ Sepanjang sejarah perjalanan bangsa Indonesia, tak dapat dipungkiri, telah terja
 
 Setelah Proklamasi Kemerdekaan, terjadi pula beberapa kerusuhan anti Cina. Di antaranya, tahun 1963 di Bandung dan Cirebon, lalu tahun 1980-an di Solo. Tapi, itu “hanya” kerusuhan berupa pengrusakan bangunan dan kendaraan, tanpa merembet ke pemerkosaan.
 
-Ketika tentara Jepang menyerbu Nanking, Cina, tahun 1937, terjadi penyiksaan dan pemerkosaan massal terhadap 80.000 perempuan di sana. Tatkala Jepang menduduki Korea, Taiwan, Indonesia, dan lainnya, muncul bentuk lain pemerkosaan, yakni *jugun ianfu* — wanita penghibur yang mengikuti para tentara Jepang
+Ketika tentara Jepang menyerbu Nanking, Cina, tahun 1937, terjadi penyiksaan dan pemerkosaan massal terhadap 80.000 perempuan di sana. Tatkala Jepang menduduki Korea, Taiwan, Indonesia, dan lainnya, muncul bentuk lain pemerkosaan, yakni *jugun ianfu*—wanita penghibur yang mengikuti para tentara Jepang
 
 Namun, tetap saja ada perbedaan antara pemerkosaan massal di masa perang itu dengan pemerkosaan massal di alam kemerdekaan. Yang disebut pertama, dilakukan dalam masa tidak damai, dan oleh bangsa asing yang berstatus penjajah.
 
@@ -96,7 +96,7 @@ Dan kebiadaban dalam kehidupan berbangsa pun mencapai puncaknya.
 
 # Ke Mana Hilangnya Mayat-Mayat Perempuan Itu?
 
-*Kronologi dan Modus Operandi Pemerkosaan*
+<div class="subtitle"><strong>Kronologi dan Modus Operandi Pemerkosaan</strong></div>
 
 “BUNUH CINA! GANYANG CINA!” TERIAK perusuh di tengah kobaran api. Yel-yel seperti itu terdengar di sentra bisnis dan permukiman warga keturunan Tionghoa, pada 13-14 Mei lalu.
 
@@ -150,9 +150,7 @@ Sebab, pemerkosanya lebih dari satu orang. Mereka juga tidak dikenal korban dan 
 
 Yang jadi incaran adalah rumah toko (ruko) di sepanjang jalan raya, yang menghubungkan dua kawasan. “Gerombolan pelaku ini datang menyerang, merusak ruko, memerkosa, dan kemudian membakar,” tandas Ita F. Nadia, koordinator Tim Relawan untuk Kemanusiaan Divisi Kekerasan terhadap Perempuan
 
-### TABEL 1
-
-### Perbandingan Lokasi Perusakan-Pembakaran dan Lokasi Pemerkosaan-Pelecehan Seksual Massal
+### TABEL 1<br/>Perbandingan Lokasi Perusakan-Pembakaran dan Lokasi Pemerkosaan-Pelecehan Seksual Massal {title="TABEL 1. Perbandingan Lokasi Perusakan-Pembakaran dan Lokasi Pemerkosaan-Pelecehan Seksual Massal"}
 
 <table><tr><td>No.</td><td>Wilayah</td><td>Contoh Lokasi Kerusuhan</td><td>Contoh Lokasi Pemerkosaan</td></tr><tr><td>1</td><td>Jakarta Pusat</td><td>Wahid Hasyim (Tanah Abang), Jiung (Kemayoran), Samanhudi (Pasar Baru), Galur, Cempaka Putih, Sumur Batu, Salemba, Tanah Abang, Harmoni</td><td></td></tr><tr><td>2</td><td>Jakarta Selatan</td><td>Cinere, Pasar Minggu, Cipete, Fatmawati, Kalibata, Mampang, Bintaro</td><td></td></tr><tr><td>3</td><td>Jakarta Timur</td><td>Pasar Rebo, Kramat Jati, Kampung Melayu, Klender, Jatinegara, Matraman, Rawamangun, Kalimalang, Penas</td><td></td></tr><tr><td>4</td><td>Jakarta Barat</td><td>Palmerah, Kebayoran Lama, Grogol, Roxy, Green Garden, Bojong Indah, Jelambar, Jembatan Dua, Jembatan Lima, Gajahmada, Glodok, Cengkareng Cengkareng, Glodok</td><td>Angke, Jelambar, Jembatan Dua, Jembatan Tiga, Jembatan Lima, Jembatan Besi, Cengkareng Cengkareng, Glodok Kota</td></tr><tr><td>5</td><td>Jakarta Utara</td><td>Kelapa Gading, Mangga Dua, Pantai Indah Kapuk</td><td>Pluit, Pantai Indah Kapuk, Sunter</td></tr><tr><td>6</td><td>Sekitar Jakarta</td><td>Depok, Bekasi, Lenteng Agung, Tangerang, Ciputat, Cileduk</td><td>Tangerang, Bekasi</td></tr></table>
 
@@ -206,7 +204,7 @@ Kelompok pemuda berbadan kekar, berambut cepak, dan bersepatu bot
 
 4. Kelompok pemuda berbadan kekar, berwajah dingin/sangar, dan bertato.
 
-### TABEL 2 Perbandingan Modus Operandi Kerusuhan dan Pemerkosaan Massal
+### TABEL 2 Perbandingan Modus Operandi Kerusuhan dan Pemerkosaan Massal {title="TABEL 2. Perbandingan Modus Operandi Kerusuhan dan Pemerkosaan Massal"}
 
 <table><tr><td>No.</td><td>Kerusuhan</td><td>Pemerkosaan</td></tr><tr><td>1</td><td>Usaha pengkondisian massa untuk berkumpul di lokasi yang akan menjadi sasaran perusakan, penjarahan, dan pembakaran, melalui penyebaran isu-isu tentang adanya aksi perusakan, penjarahan, dan pembakaran di lokasi yang akan menjadi sasaran.</td><td>Usaha 'indoktrinasi' dan pengkondisian massa untuk menjadikan perempuan-perempuan Tionghoa sebagai target perusakan dan pembantaian, melalui penyebaran isu tentang adanya aksi kerusuhan, pembantaian dan pemerkosaan terhadap warga Tionghoa.</td></tr><tr><td>2</td><td>Isu disebarkan melalui telepon, sopir-sopir angkutan umum, dan orang per orang.</td><td>Isu disebarkan lewat telepon, sopir-sopir (taksi, bajaj, angkot), pedagang-pedagang kecil, dan orang per orang.</td></tr><tr><td>3</td><td>Ada orang atau sekelompok orang yang berperan sebagai pengajak dan/atau sekaligus pemimpin- pengarah massa, agar melakukan perusakan, penjarahan, dan pembakaran.</td><td>Ada orang atau sekelompok orang yang memberi komando, atau mengarahkan langkah dan tindak pemerkosaan.</td></tr><tr><td>4</td><td>Pelaku tidak dikenali oleh warga setempat, dan didatangkan dari tempat yang tidak diketahui warga.</td><td>Pelaku tidak dikenali oleh warga setempat, dan didatangkan dari tempat yang tidak diketahui.</td></tr><tr><td>5</td><td>Pemimpin atau pengajak-pengarah massa meneriakkan yel-yel anti Cina.</td><td>Komandan dan/atau pemimpin- pengarah massa meneriakkan yel-yel anti Cina.</td></tr><tr><td>6</td><td>Selama dan setelah kerusuhan, dilancarkan aksi teror dengan disertai pemerasan. Teror dilancarkan dalam bentuk penyebaran dalam bentuk: penyebaran isu-isu tentang akan terjadinya kerusuhan, atau serangan massa. Isu ini masih beredar hingga dokumen ini ditulis (13/7/98).</td><td>Selama dan setelah kerusuhan dilancarkan aksi teror dan pemerasan. Teror dilancarkan dalam bentuk: penyebaran isu-isu tentang akan terjadinya kerusuhan, penyebaran foto-foto yang berisi kejadian dan korban pemerkosaan massal, aksi penculikan dan pemerkosaan perempuan-perempuan Tionghoa. Aksi ini masih terus berlangsung hingga dokumen ini ditulis.</td></tr><tr><td>7</td><td>Sasaran teror setelah kerusuhan: pemilik toko, ruko, pabrik, usaha-usaha bisnis lainnya, dan para warga perumahan/permukiman.</td><td>Sasaran teror setelah pemerkosaan massal adalah warga Tionghoa.</td></tr></table>
 
@@ -234,11 +232,11 @@ Daripada sibuk berandai-andai, mencari sebab musabab terjadinya kerusuhan dan pe
 
 # Pemerkosaan di Kota-Kota Lain
 
-*Bukti Kuat Kejahatan yang Terorganisir*
+<div class="subtitle"><strong>Bukti Kuat Kejahatan yang Terorganisir</strong></div>
 
 BILA SEJUMLAH PEMERKOSAAN TERJADI DALAM kurun waktu hampir bersamaan di sebuah negeri, pasti ada yang tidak beres dengan negeri itu. Apalagi jika pemerkosaan itu bukan perbuatan kriminal biasa. Sebab, para pelakunya lebih dari satu orang, dan ditujukan pada golongan tertentu dalam masyarakat.
 
-Ini tentu menimbulkan kesulitan dalam menangkap para pelaku. Namun, bukan berarti membiarkan orang-orang biadab itu berkeliaran seenaknya, dan leluasa melakukan pemerkosaan. Hingga laporan ini ditulis (7/8), teror berupa penculikan, pemerkosaan, masih berlangsung — meski tidak lagi massal — tapi dengan modus operandi yang sama seperti kejadian pertengahan Mei lalu.
+Ini tentu menimbulkan kesulitan dalam menangkap para pelaku. Namun, bukan berarti membiarkan orang-orang biadab itu berkeliaran seenaknya, dan leluasa melakukan pemerkosaan. Hingga laporan ini ditulis (7/8), teror berupa penculikan, pemerkosaan, masih berlangsung—meski tidak lagi massal—tapi dengan modus operandi yang sama seperti kejadian pertengahan Mei lalu.
 
 Fokus perhatian memang agak terpusat ke Jakarta. Maklum, di samping sebagai Ibu Kota Negara, kota ini menanggung korban pemerkosaan paling banyak (mencapai 152 orang, menurut Tim Relawan berdasarkan laporan yang masuk hingga 3 Juli 1998).
 
@@ -335,7 +333,7 @@ Dan, begitu mereka keluar dari rumah, menurut kesaksian orang yang melihatnya, k
 
 Ada juga informasi yang sampai kepada tim relawan, bahwa di kawasan Jalan Slamet Riyadi, ada dua wanita Tionghoa diperkosa dalam sebuah gang. “Waktu kami datang pertama kali kepada yang memberi informasi, mereka tidak terbuka,” ujar sang relawan.
 
-Gambaran Solo di waktu malam seperti syair lagu keroncong — ramai, damai, dan romantis — tak lagi ditemukan. Solo di waktu malam, dua bulan setelah kerusuhan lewat, masih seperti kota mati. Kesunyian semakin terasa di semua sudut kota yang berpenduduk 550.000 orang, di atas lahan seluas 44 kilometer persegi.
+Gambaran Solo di waktu malam seperti syair lagu keroncong—ramai, damai, dan romantis—tak lagi ditemukan. Solo di waktu malam, dua bulan setelah kerusuhan lewat, masih seperti kota mati. Kesunyian semakin terasa di semua sudut kota yang berpenduduk 550.000 orang, di atas lahan seluas 44 kilometer persegi.
 
 Sumber kesunyian terutama, tampaknya bukan karena pusat keramaian belum dibangun lagi. Tapi, lebih terutama pada teror pertengahan Mei itu masih begitu mencengkeram seluruh warga.
 
@@ -361,13 +359,13 @@ Tindakan perkosaan di beberapa kota telah terjadi, memang. Satu pertanyaan yang 
 
 Dilupakan, mungkin kata yang sangat tidak pas untuk para korban. Sebab, para korban, keluarga, kerabat mereka, bahkan saksi-saksi mata, telah mengalami dan melihat peristiwa yang tak akan mungkin dilupakan seumur hidup. Jaringan kejahatan publik yang sistematis-terorganisir ini harus dihadapi, bukan dihindari.
 
-dari berbagai sumber
+<p style="text-align: right; margin-top: 2em; font-size: 0.85em;"><em>dari berbagai sumber</em></p>
 
 ---
 
 # Jerit itu Tanpa Suara
 
-*Korban-Korban Mengenaskan*
+<div class="subtitle"><strong>Korban-Korban Mengenaskan</strong></div>
 
 
 MEI PERTENGAHAN YANG KELABU. SEBAGIAN Jakarta hangus terbakar. Puing-puing hitam legam berserakan, seakan menutupi peristiwa paling kelam dalam sejarah bangsa ini di tahun 1998. Realita dan impian, kini tiada batas lagi.
@@ -388,7 +386,6 @@ Pantaslah kita berkabung bagi derita tak terperi ini. Hidup laksana kuburan maha
 Marilah kita asah nurani yang mulai tumpul. Melihat jujur tanpa perbedaan apa pun. Renungkanlah kisah-kisah yang menyayat hati ini:
 
 - Hari itu, 13 Mei 1998, puluhan pemuda yang diturunkan dari dua truk menyerbu sebuah ruko. Mereka menjarah barang, menyeret, dan.melucuti pakaian dua perempuan usia 15 dan 20. Kemudian mereka memerkosanya beramai-ramai. Usai melampiaskan hasrat hewani, sebagian lainnya lantas membakar ruko, dan membiarkan kedua korban tersebut terbakar hangus di dalamnya.
-
 - Di hari yang sama, sekelompok orang tak dikenal merusak dan menjarah rumah keluarga etnik Tionghoa lainnya. Sebagian mereka memaksa anak lelaki keluarga itu memerkosa adik perempuannya yang berusia 26 tahun. Jika tak mau melakukannya, rumahnya akan dibakar.
 
 Masih belum puas, mereka juga memaksa pembantu lelaki korban untuk memerkosa nyonya majikannya yang berumur 50 tahun. Kemudian tindak pemerkosaan dilanjutkan oleh orang-orang tak dikenal itu.
@@ -396,25 +393,17 @@ Masih belum puas, mereka juga memaksa pembantu lelaki korban untuk memerkosa nyo
 Akhirnya, rumah korban dibakar juga. Kakak beradik itu dilemparkan ke dalam kobaran api. Sang ibu menyusul membakar diri.
 
 - Pada 13 Mei itu pula, puluhan pemuda turun dari dua truk. Mereka menyerbu ruko, menjarah, memerkosa, dan menggigit puting payudara (maaf - Red.) seorang perempuan usia 17 tahun hingga putus. Setelah itu mereka membakar rukonya. Beruntung, korban berhasil lari menyelamatkan diri.
-
-- Kisah A lain lagi. Gadis berusia 26 tahun ini pada hari naas itu, Rabu, 13 Mei 1998, pulang dari kantornya — sebuah bank swasta. Ia dibonceng pacarnya, pegawai perusahaan komputer, menuju rumah. Merasa keadaan sudah mereda, mereka nekat pulang menjelang pukul 21.00 WIB. Keduanya tidak pernah bermimpi, dalam perjalanan itu, di suatu tempat di Jakarta Barat, mereka akan dikepung massa yang muncul begitu saja entah dari mana. Di keremangan malam itu, ia tidak mampu lagi berpikir tentang perlakuan apa saja yang telah diterimanya. Yang teringat hanyalah, ia ditarik-tarik massa agar turun dari sepeda motor. "Tuhan, tolong Tuhan ...," cuma kata-kata itu yang bisa ia teriakkan di tengah-tengah himpitan kepanikan dan ketakutan luar biasa. Blazernya sudah terlepas. Sementara seluruh harta miliknya dilolosi. Uang, telepon genggam, kartu ATM, SIM, STNK, helm, bahkan obat dokter untuk orang tuanya yang baru ditebus di apotek pun habis dijarah. Gadis itu tidak ingat lagi, diapakan saja dirinya waktu itu. Hanya doa yang terus menguatkannya. Sekali ia jatuh terjengkang. Tetapi dengan kekuatan yang tersisa, ia bangun dan kembali memegang baju pacarnya erat-erat. Sang pacar, yang orang tuanya berencana melamar tanggal 17 Mei — empat hari setelah kejadian ini — tak berdaya dipukuli massa. Yang terdengar hanyalah rintihannya, "Ampun, Pak ... ampun. Saya orang biasa ..."
+- Kisah A lain lagi. Gadis berusia 26 tahun ini pada hari naas itu, Rabu, 13 Mei 1998, pulang dari kantornya—sebuah bank swasta. Ia dibonceng pacarnya, pegawai perusahaan komputer, menuju rumah. Merasa keadaan sudah mereda, mereka nekat pulang menjelang pukul 21.00 WIB. Keduanya tidak pernah bermimpi, dalam perjalanan itu, di suatu tempat di Jakarta Barat, mereka akan dikepung massa yang muncul begitu saja entah dari mana. Di keremangan malam itu, ia tidak mampu lagi berpikir tentang perlakuan apa saja yang telah diterimanya. Yang teringat hanyalah, ia ditarik-tarik massa agar turun dari sepeda motor. "Tuhan, tolong Tuhan ...," cuma kata-kata itu yang bisa ia teriakkan di tengah-tengah himpitan kepanikan dan ketakutan luar biasa. Blazernya sudah terlepas. Sementara seluruh harta miliknya dilolosi. Uang, telepon genggam, kartu ATM, SIM, STNK, helm, bahkan obat dokter untuk orang tuanya yang baru ditebus di apotek pun habis dijarah. Gadis itu tidak ingat lagi, diapakan saja dirinya waktu itu. Hanya doa yang terus menguatkannya. Sekali ia jatuh terjengkang. Tetapi dengan kekuatan yang tersisa, ia bangun dan kembali memegang baju pacarnya erat-erat. Sang pacar, yang orang tuanya berencana melamar tanggal 17 Mei—empat hari setelah kejadian ini—tak berdaya dipukuli massa. Yang terdengar hanyalah rintihannya, "Ampun, Pak ... ampun. Saya orang biasa ..."
 
 Sementara itu, teriakan massa kian menyeramkan. Tetapi, dalam keputusasaan, tiba-tiba seseorang berusia lanjut muncul. Dialah yang memerintahkan agar para penjarah membebaskan kedua anak manusia itu. Mereka segera pergi meninggalkan tempat tersebut, sebelum kemudian ditolong polisi jaga di dekat tempat kejadian, yang juga tak luput dari lemparan batu massa. Oleh polisi, mereka diantar ke rumah penduduk. Seorang penduduk lalu memboncengkan keduanya sampai ke rumah. Selama berhari-hari si gadis masih saja dicekam peristiwa itu. Lama ia tak masuk kantor. Sekujur tubuhnya penuh bilur-bilur biru, bahkan juga di pangkal paha. Bekas-bekas kekerasan itu baru hilang seminggu kemudian.
 
 - Sehari setelahnya, 14 Mei 1998, pemerkosaan kian merebak. Sekelompok orang tak dikenal memasuki sebuah ruko dan menjarah barang-barang. Sebagian lainnya menelanjangi R, dan memaksanya menyaksikan kedua adiknya diperkosa. Usai disetubuhi secara paksa, kedua gadis itu (M dan I) dilempar ke lantai bawah yang sudah mulai terbakar. Keduanya tewas. Namun, R berhasil selamat karena ada yang menolong.
-
 - Kejadian memilukan, juga menimpa gadis kecil usia 11 tahun. Pada 14 Mei 1998, puluhan pria dewasa tak dikenal merusak rumah korban sambil tak lupa menjarahnya. Dengan biadab, mereka melucuti pakaian korban, memperkosa, dan merusak alat vitalnya dengan kawat berduri. Gadis kecil itu mati muda di rumah sakit. Seorang korban lain dan keluarganya mengungsi karena merebak isu akan meletusnya aksi mahasiswa dan kerusuhan. Karena peristiwa tersebut tak terjadi, korban dan keluarganya kembali ke rumah. Namun, malang tak dapat ditolak. Saat mereka merasa aman berada di rumah sendiri, mimpi buruk menjemput ketenangan di hari 14 Mei. Puluhan pemuda tak dikenal berpenampilan kumuh dan berwajah dingin, menyerbu kediaman keluarga itu dan menjarahnya. Delapan orang di antaranya menyeret, melucuti pakaian, dan memerkosa perempuan yang baru berumur 23 tahun itu selama 2 jam.
-
 - Seorang ayah tak dapat berbuat banyak saat mendapati kenyataan, anak gadisnya yang berusia 18 tahun diperkosa di sebuah jalan kawasan Jembatan Lima. Sang anak disetubuhi dari depan dan belakang oleh segerombolan orang. Tubuhnya yang lunglai segera dilarikan ke rumah sakit. Namun, kerusakan parah di sekitar rahim, membuat putri ini akhirnya menghembuskan napas terakhir dalam perjalanan.
-
 - Di lain tempat, sekelompok orang tak dikenal datang menyerbu rumah seorang korban, merusak, dan menjarahnya. Sebagian lainnya menyeret korban, memperkosa, dan menusuk alat vitalnya dengan pecahan botol kaca. Korban meninggal di sebuah rumah sakit di Singapura. Peristiwa mengenaskan yang menimpa gadis usia 9 tahun itu juga terjadi pada 14 Mei 1998.
-
 - Kejadian tragis, menimpa seorang ibu muda yang sedang hamil 4 bulan. Sekelompok orang tak dikenal mendobrak ruko, dan menjarah barang-barangnya. Sebagian lainnya menarik dan melucuti pakaian korban. Suami korban yang berusaha menolong, dipukul oleh para perusuh. Dalam keadaan tanpa busana, korban berhasil meloloskan diri dan lari. Malang, ketika menuruni tangga, korban terjatuh. Kakinya patah dan kandungannya gugur. Ibu muda itu meninggal di rumah sakit, akibat pendarahan hebat. Sang suami pun kehilangan segalanya.
-
 - Di saat itu pula, puluhan orang menghancurkan ruko milik sebuah keluarga dan mengancamnya. Kakak beradik yang berusia 19 dan 21 tahun, kemudian diperkosa bergantian oleh 7-10 orang. Ruko dibakar, dua bersaudara itu dilempar ke api, dengan disaksikan orang tuanya.
-
 - Masih di tanggal 14 Mei, sebuah ruko lain diserbu puluhan orang tak dikenal. Sebagian menjarah barang, sebagian lagi memperkosa ibu (40) dan dua gadisnya (15 dan 18). Karena tertekan, salah seorang gadis itu melompat dari jendela dan tewas seketika. Ruko kemudian dibakar, ibu dan seorang gadisnya yang masih hidup, berhasil menyelamatkan diri.
-
 - Selang satu hari kemudian, pada 15 Mei 1998, pukul 6 sore, sekelompok orang tak dikenal memasuki kompleks perumahan kawasan Bekasi. Sebagian menjarah barang, sebagian lagi melucuti pakaian korban, dan memaksanya menari-nari di atas ranjang. Suami korban yang berusaha menolong, diseret, dipukul, dan dibacok punggungnya. Seorang tetangga yang ikut menolong, juga ditusuk hingga tewas. Anak korban yang berusia 3 bulan, berhasil diselamatkan oleh tetangga, sementara rumah korban dibakar.Korban, seorang ibu rumahtangga,. sekarang kehilangan ingatan dan dirawat di rumah sakit jiwa. Kini setiap hari ia hanya mau mengenakan kaos singlet dan rok lebar. Rok lebar itu selalu disingkap dan dikibas-kibaskannya ke atas. Ia kerap mengoceh, "Saya mau menari ... telanjang juga mau, kok! Saya enggak malu!" Jika ada laki-laki menjenguknya, ia selalu menunjuk-nunjuk mereka dan berkata, "Itu dia tuh yang suruh saya telanjang. Itu dia tuh yang suruh saya nari!" Sang suami kini sudah keluar dari rumah sakit tempat ia dirawat. Laki-laki itu mulai sembuh dari luka bacok di punggungnya, kendati masih terlihat memar bekas-bekas pukulan di tubuhnya, dan luka pada kepalanya. Ia setia menunggui istrinya, walaupun tangis kepiluan dan kesedihan belum bisa terhapus dari hatinya.
 
 
@@ -422,19 +411,14 @@ Sementara itu, teriakan massa kian menyeramkan. Tetapi, dalam keputusasaan, tiba
 
 
 - Di sebuah rumah sakit terbesar dan ternama di Singapura, seorang gadis tampak termenung-menung. Kadang ia menangis meratapi nasibnya. Begitulah kelakuannya sehari-hari. Saat ini ia sedang dirawat di bagian psikiatri. Gadis itu baru 18 tahun. Tapi, ia telah mengalami peristiwa dahsyat yang merusak hidupnya: dia diperkosa. Peristiwa sadis yang terjadi pertengahan Mei di Jakarta itu membuat berat badannya langsung turun 10 kilogram dalam 7 hari, karena mengalami shock maha berat dan tidak mau makan. Setiap hari kerjanya hanya menangis. Dan bila si gadis menangis, kedua orang tuanya pun tak kuasa menahan air mata. Mereka ikut meratapi nasib anak gadisnya. Beberapa perawat dan dokter di rumah sakit itu geram dan ikut bersedih atas musibah tersebut. Menurut ayahnya, anak gadisnya itu diseret keluar rumah dan diperkosa beramai-ramai oleh sekitar 10-15 orang. Ayah, ibu, dan adiknya yang masih kecil menyaksikannya. Ketika ayah dan ibunya meratap memohon agar anak gadisnya dilepaskan, pakaian si ibu malah dirobek-robek. Ia ditelanjangi serta dipukuli beramai-ramai. Bahkan mulut ibu tersebut diganjal dengan tongkat kayu. Anak gadisnya yang berteriak-teriak, diseret-seret seperti binatang. Para pemerkosa itu bersorak senang, bagai melihat tontonan menarik dan mereka memperkosanya lagi. Gadis itu benar-benar shock. Ia masih menderita pukulan serta hinaan. Lengan kirinya luka berdarah sepanjang 15 sentimeter, payudaranya yang sebelah kiri luka memar serius, dan puting buah dada kanannya (maaf-Red.) dirusak oleh senjata tajam. Ibu si gadis juga luka-luka di sekujur tubuhnya, serta luka berdarah di sekitar buah dada dan dada bagian atas. Menurut sang ayah, tetangganya pun diperkosa. Setelah si tetangga diperkosa, bagian terlarangnya ditusuk dengan kayu hingga berdarah dan menjerit-jerit. Sungguh memilukan.
-
 - Cerita lain, ketika para pegawai pulang naik bis, di dalam bis para penumpang dipilah-pilah. Para penumpang perempuan etnik Tionghoa disuruh turun, diminta membuka baju, dan jalan berbaris. Mereka digiring ke padang ilalang di pinggir jalan dan dipilah-pilah lagi. Yang berparas cantik diperkosa, sedangkan yang tidak begitu cantik disuruh berjalan telanjang. Begitulah perlakuan tanpa nurani yang mereka terima.
-
 - Seorang korban yang lolos dari usaha perkosaan bercerita. Ketika ia naik bis di daerah Jakarta Barat, bisnya dihentikan massa. Semua penumpang disuruh turun. Kebetulan ia berada di belakang seorang ibu yang berkulit putih. Saat itulah ada yang berteriak, "Serbu ibu itu, perkosa!" Walau ketakutan, si ibu berkata cepat, "Anda salah lihat. Saya orang Batak!" Lalu ibu itu mengeluarkan KTPNYA. Melihat itu, orang tadi berteriak, "Kalau begitu, perkosa wanita yang di belakangnya." Gadis bermata sipit itu tampak ketakutan sekali. Untunglah si ibu membelanya, "Ia keponakan saya, jangan diperkosa." Akhirnya, gadis tersebut lolos dari pemerkosaan karena dibawa pergi ibu itu.
 
 Ada lagi cerita sedih. Sebanyak sepuluh orang perusuh memasuki sebuah bank dan menutup pintu bank tersebut. Sekitar sepuluh karyawati etnik Tionghoa disuruh menari-nari tanpa busana.
 
-- Perbuatan biadab seperti itu bukan saja terjadi di dalam ruangan, tapi juga di luar kantor atau rumah, bahkan di tempat umum. Inilah kisah tragis dari tiga korban pemerkosaan pada saat peristiwa kerusuhan terjadi di Jakarta, pertengahan Mei silam. Tiga orang perempuan terdiri dari ibu, anak, dan adiknya, naik mobil dengan menyetir sendiri dari Bandung ke Jakarta untuk membeli stok pakaian. Namun, nasib sial menimpa mereka. Ketika kendaraannya melaju di Jalan Tol Cikampek, sekelompok massa menghadang keluarga tersebut. Si ibu yang menyetir, berhenti. Orang-orang tak dikenal itu kemudian menyuruh mereka turun sambil mengatakan, bahwa Jakarta sedang rusuh. Tapi, apa yang terjadi kemudian? Massa yang tampak beringas dan tak diketahui arah datangnya itu, serta merta menggulingkan mobil sedan tersebut dan membakarnya. Ketiga perempuan tersebut kaget dan berteriak minta tolong. Namun, kendaraan yang datang dari arah Bandung maupun dari Jakarta langsung berbelok arah lagi, ketika melihat api mulai melumat kendaraan itu. Mulanya ketiga perempuan tersebut, sebut saja Nuri (47), Yuli (43), dan Yati (25), tak mengira peristiwa itu bakal terjadi. Ketika mobilnya dibakar, mereka berusaha mencari perlindungan dengan cara mencari jalan keluar tol lewat semak-semak di pinggirnya. Tapi, beberapa orang menghampiri mereka. Serta merta mereka mendengar ancaman menyuruh berhenti. Kalau tidak, akan dibunuh. Mereka pun tidak dapat berbuat banyak, ketika sejumlah laki-laki beringas menggarap mereka di pinggir jalan tol, yang waktu itu dalam keadaan gelap. Cahaya api dari arah kendaraan terbakar tidak sampai ke situ karena terhalang benteng pembatas jalan tol. Dari ketiga perempuan tersebut, Yati gadis yang tengah mekar ini — menerima perlakuan sangat tidak manusiawi. Selain ditelanjangi, ia digilir beberapa orang. Sedangkan Nuri dan Yuli hanya dirobek-robek celananya, sementara rok mereka masih tetap utuh. Meski mereka diperlakukan sadis seperti hewan, namun ketiganya berhasil menyelamatkan diri. Nyawa mereka selamat, berkat bantuan para penduduk setempat. Akhirnya, mereka bisa sampai ke rumah keesokan harinya.
-
+- Perbuatan biadab seperti itu bukan saja terjadi di dalam ruangan, tapi juga di luar kantor atau rumah, bahkan di tempat umum. Inilah kisah tragis dari tiga korban pemerkosaan pada saat peristiwa kerusuhan terjadi di Jakarta, pertengahan Mei silam. Tiga orang perempuan terdiri dari ibu, anak, dan adiknya, naik mobil dengan menyetir sendiri dari Bandung ke Jakarta untuk membeli stok pakaian. Namun, nasib sial menimpa mereka. Ketika kendaraannya melaju di Jalan Tol Cikampek, sekelompok massa menghadang keluarga tersebut. Si ibu yang menyetir, berhenti. Orang-orang tak dikenal itu kemudian menyuruh mereka turun sambil mengatakan, bahwa Jakarta sedang rusuh. Tapi, apa yang terjadi kemudian? Massa yang tampak beringas dan tak diketahui arah datangnya itu, serta merta menggulingkan mobil sedan tersebut dan membakarnya. Ketiga perempuan tersebut kaget dan berteriak minta tolong. Namun, kendaraan yang datang dari arah Bandung maupun dari Jakarta langsung berbelok arah lagi, ketika melihat api mulai melumat kendaraan itu. Mulanya ketiga perempuan tersebut, sebut saja Nuri (47), Yuli (43), dan Yati (25), tak mengira peristiwa itu bakal terjadi. Ketika mobilnya dibakar, mereka berusaha mencari perlindungan dengan cara mencari jalan keluar tol lewat semak-semak di pinggirnya. Tapi, beberapa orang menghampiri mereka. Serta merta mereka mendengar ancaman menyuruh berhenti. Kalau tidak, akan dibunuh. Mereka pun tidak dapat berbuat banyak, ketika sejumlah laki-laki beringas menggarap mereka di pinggir jalan tol, yang waktu itu dalam keadaan gelap. Cahaya api dari arah kendaraan terbakar tidak sampai ke situ karena terhalang benteng pembatas jalan tol. Dari ketiga perempuan tersebut, Yati gadis yang tengah mekar ini—menerima perlakuan sangat tidak manusiawi. Selain ditelanjangi, ia digilir beberapa orang. Sedangkan Nuri dan Yuli hanya dirobek-robek celananya, sementara rok mereka masih tetap utuh. Meski mereka diperlakukan sadis seperti hewan, namun ketiganya berhasil menyelamatkan diri. Nyawa mereka selamat, berkat bantuan para penduduk setempat. Akhirnya, mereka bisa sampai ke rumah keesokan harinya.
 - Seorang pelajar diangkut dari terminal bis, saat ia menanti angkutan umum itu untuk pulang ke rumah. Empat pria di dalam mobil menawari jasa baik. Ternyata, gadis itu malah disetubuhi beramai-ramai di daerah rawa-rawa dekat Bandara. Melihat ada seragam dinas di dalam mobil, si gadis memberanikan diri berkata, "Jika Bapak-Bapak petugas keamanan, seharusnya Bapak-Bapak melindungi saya." Salah seorang di antara pelaku dengan ringan menjawab, "Tidak. Saya harus memberimu pelajaran. Sebab kamu perempuan, cantik, dan orang Cina."
-
 - Sebuah keluarga muda berniat mengungsi ke luar Jakarta saat terjadi kerusuhan. Namun, dalam perjalanan ke bandara Soekarno-Hatta, Cengkareng, mobil mereka dicegat segerombolan orang. Sang suami yang mengemudikan mobil dipukuli. Sementara istrinya ditelanjangi, dan diperkosa beramai-ramai. Dan.... putri mungilnya yang baru berusia dua tahun tak lepas dari keberingasan massa. Alat vitalnya dirusak dengan benda tajam. Kini, sang ibu hanya termangu-mangu sepanjang hari, merenungi nasib.
-
 - Yang tak kalah memilukan, pengalaman seorang gadis usia 16 tahun. Ia diperkosa beramai-ramai. Peristiwa itu begitu membekas dalam dirinya. Kini ia mengalami trauma berat. Setiap malam ia sering terbangun, berteriak-teriak, atau menangis tanpa sebab. Orang tuanya kemudian memasukkannya ke sebuah rumah sakit swasta di Jakarta. Namun malang, ketika dokter diminta untuk melakukan tes kehamilan pada si gadis, ternyata hasilnya positif. Hal ini menimbulkan dilema bagi dokter tersebut. Ia meminta orang tua si gadis memberitahukan kabar buruk itu kepada anaknya. Begitu mendengar berita mengenai kehamilannya, gadis tanggung itu langsung menangis dan menjerit-jerit histeris.
 
 KEJADIAN-KEJADIAN SADIS MENGENASKAN seperti di atas, hanyalah sebagian dari sedikit kasus yang baru terungkap. Tentu masih banyak pengalaman pahit yang belum tersingkap.
@@ -455,13 +439,13 @@ Tidak hanya etnik Tionghoa kelas menengah dan atas yang menjadi korban kekejian.
 
 RENTETAN PERISTIWA MEMILUKAN ITU MEMANG telah meninggalkan luka mendalam di hati para korban, keluarga, dan handai taulannya. Juga menggoreskan kepedihan yang ngilu di hati kita sebagai manusia beradab. Semoga kejadian pahit ini tidak terulang lagi di kemudian hari.
 
-dari berbagai sumber
+<p style="text-align: right; margin-top: 2em; font-size: 0.85em;"><em>dari berbagai sumber</em></p>
 
 ---
 
 # Noda Hitam dalam Lembar Kehidupan
 
-*Dampak Luas Pemerkosaan*
+<div class="subtitle"><strong>Dampak Luas Pemerkosaan</strong></div>
 
 
 BERBAGAI TINDAK PEMERKOSAAN YANG MARAK berlangsung pertengahan Mei silam, bagaikan mimpi buruk di siang hari. Peristiwa pilu tersebut meninggalkan bekas mendalam di hati kita.
@@ -550,13 +534,13 @@ Mereka berpapasan dengan sekelompok aparat keamanan. Ada beberapa dari kelompok 
 
 Kalau kehidupan bermasyarakat sudah demikian teracuni perilaku biadab para pemerkosa massal Mei lalu, bagaimana kelak nasib bangsa ini? Renungkanlah.
 
-dari berbagai sumber
+<p style="text-align: right; margin-top: 2em; font-size: 0.85em;"><em>dari berbagai sumber</em></p>
 
 ---
 
 # Buktikan Kalau Kejadian ini Bohong
 
-*Ita F. Nadia, Koordinator Tim Relawan untuk Kemanusiaan Divisi Kekerasan terhadap Perempuan*
+<div class="subtitle"><strong>Ita F. Nadia, Koordinator Tim Relawan untuk Kemanusiaan Divisi Kekerasan terhadap Perempuan</strong></div>
 
 
 **SUDAH TIGA BULAN BERLALU SEJAK KERUSUHAN 13-14 Mei. Bagaimana perkembangan masalah pemerkosaan massa?**
@@ -627,22 +611,22 @@ Tapi, saya akan duduk di Komisi Nasional Aksi Kekerasan terhadap Perempuan, sema
 
 Komisi Nasional HAM perempuan akan memberi masukan pada TPFG. Area kerja kami juga beda. TPFG kan hanya tiga bulan. Kalau di komisi sifatnya jangka panjang, dan berfokus pada penelitian, pendidikan, dan perubahan kebijakan. 
 
-Wawancara langsung Tim Pemburu Fakta, tgl 6/8/98
+<p style="text-align: right; margin-top: 2em; font-size: 0.85em;"><em>Wawancara langsung Tim Pemburu Fakta, tgl 6/8/98</em></p>
 
 ---
 
 # Pemerkosaan Massal Bukan Tabiat Orang Indonesia
 
-*Dr. Rosita Noer, Ketua Umum Badan Komunikasi Penghayatan Kesatuan Bangsa (Bakom PKB) Pusat*
+<div class="subtitle"><strong>Dr. Rosita Noer, Ketua Umum Badan Komunikasi Penghayatan Kesatuan Bangsa (Bakom PKB) Pusat</strong></div>
 
 
-*"BANYAK SAKSI MATA YANG MENYAKSIKAN PEMERKOSAAN dan pelecehan seksual," kata Rosita Noer, Ketua Umum Bakom PKB Pusat. Rosita yang juga pemilik perusahaan Noer Associates, yang berkiprah di bidang ekspor minyak kelapa dan konsultan public relation ini, beberapa waktu lalu bertemu dengan Komisi II DPR. Bakom PKB mendesak pemerintah untuk membentuk komisi pencari fakta yang independen untuk kerusuhan Mei itu.
+"BANYAK SAKSI MATA YANG MENYAKSIKAN PEMERKOSAAN dan pelecehan seksual," kata Rosita Noer, Ketua Umum Bakom PKB Pusat. Rosita yang juga pemilik perusahaan Noer Associates, yang berkiprah di bidang ekspor minyak kelapa dan konsultan public relation ini, beberapa waktu lalu bertemu dengan Komisi II DPR. Bakom PKB mendesak pemerintah untuk membentuk komisi pencari fakta yang independen untuk kerusuhan Mei itu.
 
 Lahir 28 September 1947 sebagai anak tunggal dari Baginda Sofyan Noer dan Raden Ayu Rosma Wigati, Rosita Noer kerap berbicara tegas, vokal, dan penuh kritik.
 
 Dokter lulusan Fakultas Kedokteran Universitas Indonesia ini mengaku shock, karena ternyata dalam kerusuhan 13-14 Mei itu, diikuti dengan pelecehan seksual dan pemerkosaan terhadap warga Indonesia keturunan Tionghoa.
 
-Berikut, petikan wawancara reporter MATRA dengan Rosita Noer:*
+Berikut, petikan wawancara reporter MATRA dengan Rosita Noer:
 
 ## Menurut Anda, apa yang menjadi penyebab kerusuhan 13-14 Mei?
 
@@ -690,7 +674,7 @@ Berikut, petikan beberapa di antaranya:
 
 ## Romo Sandyawan Sumardi, Sekretaris I Tim Relawan untuk Kemanusiaan
 
-![](epub_assets/p42_0.webp)
+![](epub_assets/p42_0.webp){.image-medium}
 
 Ini merupakan sebuah pornografi politik yang paling mengerikan. Korbannya begitu masif, sangat dramatis dari segi cara, metode, dan dari segi ketidakpedulian pada kondisi psikologis korban.
 
@@ -698,7 +682,7 @@ Pada waktu itu, ada 970 mayat di Rumah Sakit Cipto Mangunkusumo. Kami masuk ke s
 
 ## Nursyahbani Katjasungkana, S.H., Direktur Lembaga Bantuan Hukum -Asosiasi Perempuan Indonesia untuk Keadilan (LBH-APIK)
 
-![](epub_assets/p43_0.webp)
+![](epub_assets/p43_0.webp){.image-medium}
 
 Ini sebuah strategi untuk tetap mengherokan ABRI. Setelah peristiwa penembakan mahasiswa Trisakti, ABRI terpojok betul. Di sini militer perlu keluar dari keterpojokan itu dengan penciptaan.
 
@@ -706,13 +690,13 @@ Ke mana ABRI ketika kerusuhan terjadi? Baru setelahnya, beberapa perwira ABRI me
 
 ## Onghokham, Sejarawan
 
-![](epub_assets/p43_1.webp)
+![](epub_assets/p43_1.webp){.image-medium}
 
 Boleh dikata, ini kerusuhan besar pertama yang terjadi di Jakarta. Mungkin bukan yang terbesar skalanya dalam sejarah Republik, tapi cukup mengejutkan. Sebab, peristiwanya meletus di Ibu Kota. Berarti, aparat keamanan tidak bisa mengamankan Jakarta. Kalau Ibu Kota saja gagal diamankan, tak ada sesuatu lagi yang aman.
 
 ## Hendardi, Direktur Eksekutif Perhimpunan Bantuan Hukum dan Hak Asasi Manusia
 
-![](epub_assets/p43_2.webp)
+![](epub_assets/p43_2.webp){.image-medium}
 
 Peristiwa kerusuhan menghancurkan mitos perlindungan keamanan masyarakat yang selama ini dijamin ABRI lewat pernyataan-pernyataan bahwa stabilitas aman dan terkendali.
 
@@ -732,13 +716,13 @@ Tentang pemerkosaan massal, ada indikasi yang melakukannya adalah orang-orang ya
 
 ## Nurcholis Madjid, Cendekiawan Muslim dan Ketua Yayasan Paramadina
 
-![](epub_assets/p45_0.webp)
+![](epub_assets/p45_0.webp){.image-medium}
 
 Untuk mencegah terjadinya kembali kerusuhan massa, harus ada kemauan politik dari para pemimpin yang otentik secara etis dan moral. Selain itu, harus ada keterbukaan dan kejujuran dalam penyelenggaraan pemerintahan dan kekuasaan. Faktor itu juga merupakan kunci penting penyelesaian masalah pribumi dan nonpribumi.
 
 ## Rudy Hartono, Pemain Bulu Tangkis, Juara All England 8 Kali
 
-![](epub_assets/p45_1.webp)
+![](epub_assets/p45_1.webp){.image-medium}
 
 Saya paling tidak setuju adanya pengkotak-kotakan dalam masyarakat. Contoh gamblang adalah soal pembuatan Kartu Tanda Penduduk (KTP). Jelas tertera adanya pembedaan antara saya dengan warga negara lainnya. Ini saya rasa tidak benar.
 
@@ -746,7 +730,7 @@ Soal istilah pri dan nonpri, sudah saatnya tidak lagi dikedepankan. Bagi warga k
 
 ## Amien Rais, Ketua Pimpinan Pusat Muhammadiyah
 
-![](epub_assets/p45_2.webp)
+![](epub_assets/p45_2.webp){.image-medium}
 
 Di kota kelahiran saya, Solo, antara warga keturunan dan warga pribumi senantiasa mesra, dan nyaris tak ada jarak. Karena itu, saya tidak rela bila rumah dan toko warga keturunan etnik Tionghoa dibakari. Etnik Tionghoa adalah bagian integral dari bangsa Indonesia.
 
@@ -760,7 +744,7 @@ Untuk itu, pembauran harus didukung oleh pengembangan dan peningkatan faktor int
 
 ## Sofyan Wanandi, Pengusaha
 
-![](epub_assets/p47_0.webp)
+![](epub_assets/p47_0.webp){.image-medium}
 
 Saya perkirakan, jumlah warga keturunan Tionghoa yang pergi ke luar negeri akibat kerusuhan kemarin, jumlahnya antara 10.000-30.000 orang. Tidak sampai 100.000. Kalau hanya 30.000 orang yang pergi, itu kan sangat kecil jika dibandingkan dengan 5 juta warga keturunan Tionghoa di Indonesia.
 
@@ -770,7 +754,7 @@ Saya mengerti, mereka sangat trauma akibat adanya ancaman yang mengganggu kesela
 
 ## Ester Indahjani Jusuf S.H., Ketua Komite Pemuda Indonesia untuk Penghapusan Diskriminasi Ras (Solidaritas Nusa Bangsa)
 
-![](epub_assets/p47_1.webp)
+![](epub_assets/p47_1.webp){.image-medium}
 
 Ada kebijakan-kebijakan politik tertentu dari rezim Orde Baru yang mengakibatkan terjadinya kerusuhan ini, Memang, di masa itu ada segelintir orang Tionghoa yang mendapat kemudahan dari aparat dalam menjalankan roda perekonomian. Ini
 
@@ -796,7 +780,7 @@ Kita harus bangkitkan lagi keyakinan, manusia itu lahir meski bukan bagian kelom
 
 ## Christianto Wibisono, Direktur Pusat Data Bisnis Indonesia
 
-![](epub_assets/p49_0.webp)
+![](epub_assets/p49_0.webp){.image-medium}
 
 Saya menangis memikirkan nasib Republik Indonesia berdasar Pancasila yang lahir 17 Agustus 1945. Penembakan mahasiswa pada 12 Mei telah memicu penjarahan dan perusakan yang belum pernah terjadi dalam sejarah Republik. Junus Yahya mengecam aksi itu, karena menunjukkan gejala ethnic cleansing seperti di bekas Yugoslavia.
 
@@ -820,7 +804,7 @@ Saya ingin menegaskan, warga negara keturunan Cina punya hak hidup, dan akan mem
 
 # Di Mana Kau, Ibu?
 
-***Menyoal Lambannya Upaya Pemerintah***
+<div class="subtitle"><strong>Menyoal Lambannya Upaya Pemerintah</strong></div>
 
 DI BALIK KEBISUAN DINDING RUMAH, TAK TERBILANG WNI keturunan Tionghoa yang hingga kini meratapi nasibnya. Entah istri, anak, saudara, atau kerabat mereka menjadi korban. Namun, mereka memilih bungkam, pasrah.
 
@@ -937,7 +921,7 @@ Adanya TPFG ini paling tidak memberi secercah harapan, akan perbaikan ketentrama
 
 Akankah TPFG membongkar jaringan perencana dan pelaku seluruhnya? Ataukah—seperti kebanyakan kasus pada umumnya—hanya berakhir pada kroco-kroco, yang hanya menjalankan perintah atasan? Kita tunggu saja.
 
-<p style="text-align: right; margin-top: 2em; font-size: 0.75em;"><em>dari berbagai sumber</em></p>
+<p style="text-align: right; margin-top: 2em; font-size: 0.85em;"><em>dari berbagai sumber</em></p>
 
 ---
 
@@ -1019,13 +1003,13 @@ Semasa rezim Orde Baru berkuasa, Komisi HAM PBB mengaku menemui kesulitan menjan
 
 Jika perhatian dunia internasional begitu menggebu-gebu terhadap Indonesia, mengapa kita sendiri yang menjadi bagian dari negara ini, tidak mulai berkaca, sudahkah kita menjunjung hak asasi itu?
 
-<p style="text-align: right; margin-top: 2em; font-size: 0.75em;"><em>dari berbagai sumber</em></p>
+<p style="text-align: right; margin-top: 2em; font-size: 0.85em;"><em>dari berbagai sumber</em></p>
 
 ---
 
 # Kekerasan dan Teror Masih Berlangsung
 
-***Ikut-Ikutan atau Karena Para Pelaku Masih Berkeliaran?***
+<div class="subtitle"><strong>Ikut-Ikutan atau Karena Para Pelaku Masih Berkeliaran?</strong></div>
 
 TIGA BULAN BERLALU SEJAK AMUK MASSA mencoreng wajah Ibu Kota. Kehidupan “seolah” telah berjalan normal. Namun, di tengah kesibukan rutinitas sehari-hari, di lubuk kebanyakan warga masih terselip rasa was-was.
 
@@ -1087,7 +1071,7 @@ Beban yang harus disandang warga masyarakat akibat krisis ekonomi sudah cukup be
 
 Kiranya sudah saatnya para perekayasa teror menghentikan aktivitasnya. Atau, memang bangsa ini tengah sengaja diarahkan ke ambang kehancuran?
 
-<p style="text-align: right; margin-top: 2em; font-size: 0.75em;"><em>dari berbagai sumber</em></p>
+<p style="text-align: right; margin-top: 2em; font-size: 0.85em;"><em>dari berbagai sumber</em></p>
 
 ---
 
@@ -1111,7 +1095,7 @@ Tiba waktunya sekarang kita memperbaiki kerusakan total hidup bersama, yang diak
 
 SETELAH BERTEMU DENGAN SEBAGIAN DARI korban dan keluarga korban, dan setelah mencermati siaran media massa, serta laporan-laporan yang disusun oleh berbagai LSM, kami kaum pemuka agama dan masyarakat, sampai pada kesimpulan, bahwa kami perlu menyatakan secara tegas mengenai pokok yang amat memprihatinkan ini, yaitu bahwa
 
-## 1. DIMANFAATKANNYA PERBEDAAN SUKU DAN SOSIAL EKONOMI DI DALAM MASYARAKAT SEBAGAI SARANA UNTUK MEMECAH BELAH:
+## 1. Dimanfaatkannya Perbedaan Suku dan Sosial Ekonomi di dalam Masyarakat sebagai Sarana untuk Memecah Belah
 
 Memang di dalam sejarah bangsa Indonesia, kuno maupun modern, telah sering terjadi konflik rasial. Peristiwa yang terjadi pada tanggal 13-14 Mei 1998 yang lalu, sekali lagi merupakan konflik yang sangat keji dan biadab. Peristiwa tersebut jelas sekali merupakan pelanggaran hak-hak asasi manusia.
 
@@ -1119,7 +1103,7 @@ Masyarakat keturunan Tionghoa dihadapkan dengan masyarakat yang lain, dan selanj
 
 Di pihak lain, rakyat jelata yang sebagian hidup dalam kemiskinan, kehilangan pekerjaan, dan terpinggirkan dari pusat-pusat pengambilan keputusan, dipancing sedemikian sehingga sampai ribuan mati terpanggang. Yang lebih mengerikan adalah bahwa semua itu dilakukan dengan cara-cara yang terorganisir dan sistematis.
 
-## 2. PENGANIAYAAN YANG DIDASARKAN PADA KENYATAAN YANG ADA DI LUAR PILIHAN SESEORANG:
+## 2. Penganiayaan yang Didasarkan pada Kenyataan yang Ada di Luar Pilihan Seseorang
 
 Dilahirkan sebagai anggota dari salah satu suku bangsa bukanlah pilihan orang yang bersangkutan. Itu adalah anugerah yang berasal dari Tuhan sendiri kepada makhluk-Nya. Dengan demikian, setiap orang memiliki kekhasannya masing-masing.
 
@@ -1131,7 +1115,7 @@ Kekerasan yang dilakukan terhadap mereka yang dilahirkan dan dibesarkan di Indon
 
 Di lain pihak, kemiskinan rakyat bukanlah kesempatan untuk menjerumuskan mereka ke dalam sikap dan tindakan yang kejam, biadab, dan tak berperikemanusiaan, melainkan merupakan panggilan untuk mengajak mereka memperkuat diri agar dapat menciptakan hidup yang berkualitas.
 
-## 3. PERBEDAAN DIPERTENTANGKAN:
+## 3. Perbedaan Dipertentangkan
 
 Hidup di dalam sebuah masyarakat yang majemuk seperti Indonesia, harus mengakui adanya kenyataan, bahwa di sini terdapat berbagai kelompok yang memiliki perbedaan-perbedaan.
 
@@ -1139,7 +1123,7 @@ Hal ini tidak hanya penting untuk menjaga keutuhan bangsa, tetapi juga penting b
 
 Kami tidak setuju, bahwa perbedaan yang ada dijadikan sumber pertentangan yang membuat kelompok yang satu berhadapan dengan kelompok yang lain sebagai lawan.
 
-## 4. TIADANYA PERLINDUNGAN HUKUM:
+## 4. Tiadanya Perlindungan Hukum
 
 Di dalam sebuah negara hukum, harus ada jaminan keamanan yang nyata, terutama keamanan fisik, yang diwujudkan di dalam bentuk perundang-undangan yang diberlakukan dengan sanksi lewat sistem peradilan, serta wajib dilaksanakan oleh segenap aparat keamanan, Tanpa hal ini, kehidupan sosial, ekonomi, dan budaya akan mengalami kemerosotan.
 
@@ -1151,4 +1135,4 @@ Sekarang kejadian itu tertuju pada warga keturunan Tionghoa; jika tidak diberant
 
 Akhirnya kami mengajak semua orang yang ingin dan mau menjunjung tinggi nilai kemanusiaan, untuk berusaha dan bekerja sama melawan segala sesuatu yang memungkinkan tumbuhnya pengadudombaan di negeri ini. Sehingga, di tanah air Indonesia ini dapat terbangun dan tercipta sebuah bangsa beradab yang menghargai harkat dan martabat manusia.
 
-<p style="text-align: right; margin-top: 2em;"><b>Jakarta, 17 Juni 1998<br/>Masyarakat Dialog Antar Agama</b></p>
+<p style="text-align: right; margin-top: 2em; font-size: 0.85em;"><b>Jakarta, 17 Juni 1998<br/>Masyarakat Dialog Antar Agama</b></p>
