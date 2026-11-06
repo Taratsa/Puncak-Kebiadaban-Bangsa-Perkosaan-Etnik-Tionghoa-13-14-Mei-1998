@@ -16,7 +16,7 @@ first-publisher: "Tim Pemburu Fakta"
 # first-published: ""
 # publisher must be ONE string (a YAML list makes pandoc write an empty <dc:publisher>); join several with ", ".
 
-title: "Puncak Kebiadaban Bangsa: Perkosaan Etnik Tionghoa 13-14 Mei 1998"
+title: "Puncak Kebiadaban Bangsa: Pemerkosaan Etnik Tionghoa 13-14 Mei 1998"
 lang: "id"
 publisher: "Taratsa, MasasilaM"
 rights: "CC BY-SA 4.0"
